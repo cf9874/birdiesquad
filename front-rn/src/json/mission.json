@@ -1,0 +1,90 @@
+[
+  {
+    "nID": 100,
+    "nMissionType": 1,
+    "dMissionValue": 2,
+    "nRewardItemID": 101,
+    "dRewardCount": 5,
+    "nMissionTitle": 190000
+  },
+  {
+    "nID": 101,
+    "nMissionType": 1,
+    "dMissionValue": 5,
+    "nRewardItemID": 100,
+    "dRewardCount": 20,
+    "nMissionTitle": 190001
+  },
+  {
+    "nID": 102,
+    "nMissionType": 1,
+    "dMissionValue": 8,
+    "nRewardItemID": 202301,
+    "dRewardCount": 1,
+    "nMissionTitle": 190002
+  },
+  {
+    "nID": 103,
+    "nMissionType": 1,
+    "dMissionValue": 12,
+    "nRewardItemID": 100,
+    "dRewardCount": 50,
+    "nMissionTitle": 190003
+  },
+  {
+    "nID": 104,
+    "nMissionType": 1,
+    "dMissionValue": 17,
+    "nRewardItemID": 100,
+    "dRewardCount": 100,
+    "nMissionTitle": 190004
+  },
+  {
+    "nID": 105,
+    "nMissionType": 1,
+    "dMissionValue": 24,
+    "nRewardItemID": 101,
+    "dRewardCount": 5,
+    "nMissionTitle": 190005
+  },
+  {
+    "nID": 106,
+    "nMissionType": 1,
+    "dMissionValue": 29,
+    "nRewardItemID": 202301,
+    "dRewardCount": 1,
+    "nMissionTitle": 190006
+  },
+  {
+    "nID": 107,
+    "nMissionType": 1,
+    "dMissionValue": 33,
+    "nRewardItemID": 100,
+    "dRewardCount": 100,
+    "nMissionTitle": 190007
+  },
+  {
+    "nID": 108,
+    "nMissionType": 1,
+    "dMissionValue": 38,
+    "nRewardItemID": 100,
+    "dRewardCount": 100,
+    "nMissionTitle": 190008
+  },
+  {
+    "nID": 109,
+    "nMissionType": 1,
+    "dMissionValue": 44,
+    "nRewardItemID": 100,
+    "dRewardCount": 100,
+    "nMissionTitle": 190009
+  },
+  {
+    "nID": 110,
+    "nMissionType": 1,
+    "dMissionValue": 49,
+    "nRewardItemID": 100,
+    "dRewardCount": 100,
+    "nMissionTitle": 190010
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "nID": 1,
+    "nAdditionalBonusReward": 0
+  },
+  {
+    "nID": 2,
+    "nAdditionalBonusReward": 0.5
+  },
+  {
+    "nID": 3,
+    "nAdditionalBonusReward": 1
+  },
+  {
+    "nID": 4,
+    "nAdditionalBonusReward": 2
+  },
+  {
+    "nID": 5,
+    "nAdditionalBonusReward": 5
+  },
+  {
+    "nID": 6,
+    "nAdditionalBonusReward": 5
+  },
+  {
+    "nID": 7,
+    "nAdditionalBonusReward": 5
+  },
+  {
+    "nID": 8,
+    "nAdditionalBonusReward": 5
+  },
+  {
+    "nID": 9,
+    "nAdditionalBonusReward": 5
+  },
+  {
+    "nID": 10,
+    "nAdditionalBonusReward": 5
+  },
+  {
+    "nID": 11,
+    "nAdditionalBonusReward": 5
+  },
+  {
+    "nID": 12,
+    "nAdditionalBonusReward": 5
+  },
+  {
+    "nID": 13,
+    "nAdditionalBonusReward": 5
+  },
+  {
+    "nID": 14,
+    "nAdditionalBonusReward": 5
+  },
+  {
+    "nID": 15,
+    "nAdditionalBonusReward": 5
+  },
+  {
+    "nID": 16,
+    "nAdditionalBonusReward": 5
+  },
+  {
+    "nID": 17,
+    "nAdditionalBonusReward": 5
+  }
+]

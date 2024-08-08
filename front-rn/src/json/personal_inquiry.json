@@ -1,0 +1,52 @@
+[
+  {
+    "nID": 10,
+    "nInquiryCategoryTitle": 173000,
+    "nForm": 173099
+  },
+  {
+    "nID": 20,
+    "nInquiryCategoryTitle": 173001,
+    "nForm": 173100
+  },
+  {
+    "nID": 30,
+    "nInquiryCategoryTitle": 173002,
+    "nForm": 173099
+  },
+  {
+    "nID": 40,
+    "nInquiryCategoryTitle": 173003,
+    "nForm": 173101
+  },
+  {
+    "nID": 50,
+    "nInquiryCategoryTitle": 173004,
+    "nForm": 173099
+  },
+  {
+    "nID": 60,
+    "nInquiryCategoryTitle": 173005,
+    "nForm": 173102
+  },
+  {
+    "nID": 70,
+    "nInquiryCategoryTitle": 173006,
+    "nForm": 173103
+  },
+  {
+    "nID": 80,
+    "nInquiryCategoryTitle": 173007,
+    "nForm": 173099
+  },
+  {
+    "nID": 90,
+    "nInquiryCategoryTitle": 173008,
+    "nForm": 173104
+  },
+  {
+    "nID": 100,
+    "nInquiryCategoryTitle": 173009,
+    "nForm": 173099
+  }
+]

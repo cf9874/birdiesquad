@@ -1,0 +1,13 @@
+export enum REMOTE_EVENT_TYPE {
+
+    LIVE = 1,
+    TOUR_REWARD =2,
+    RAFFLE_START = 3,
+    RAFFLE_REWARD = 4,
+    PROFILE_UP = 5,
+    ANSWER_INQUIRY = 6,
+    MY_SQUAD = 101,
+    MARKET_NFT = 103,
+    RANK_FAN = 104
+
+}

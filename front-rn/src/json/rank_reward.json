@@ -1,0 +1,452 @@
+[
+  {
+    "nID": 10001,
+    "nRankType": 1,
+    "bIsDisplay": 1,
+    "nRank": 1,
+    "nRankPercentOver": -1,
+    "nRewardItemID": 100,
+    "dRewardAmount": 15000
+  },
+  {
+    "nID": 10002,
+    "nRankType": 1,
+    "bIsDisplay": 1,
+    "nRank": 2,
+    "nRankPercentOver": -1,
+    "nRewardItemID": 100,
+    "dRewardAmount": 10000
+  },
+  {
+    "nID": 10003,
+    "nRankType": 1,
+    "bIsDisplay": 1,
+    "nRank": 3,
+    "nRankPercentOver": -1,
+    "nRewardItemID": 100,
+    "dRewardAmount": 5000
+  },
+  {
+    "nID": 10004,
+    "nRankType": 1,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 0,
+    "nRewardItemID": 100,
+    "dRewardAmount": 2000
+  },
+  {
+    "nID": 10005,
+    "nRankType": 1,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 6,
+    "nRewardItemID": 100,
+    "dRewardAmount": 1000
+  },
+  {
+    "nID": 10006,
+    "nRankType": 1,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 11,
+    "nRewardItemID": 100,
+    "dRewardAmount": 700
+  },
+  {
+    "nID": 10007,
+    "nRankType": 1,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 21,
+    "nRewardItemID": 100,
+    "dRewardAmount": 500
+  },
+  {
+    "nID": 10008,
+    "nRankType": 1,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 31,
+    "nRewardItemID": 100,
+    "dRewardAmount": 300
+  },
+  {
+    "nID": 10009,
+    "nRankType": 1,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 51,
+    "nRewardItemID": 100,
+    "dRewardAmount": 200
+  },
+  {
+    "nID": 10010,
+    "nRankType": 1,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 71,
+    "nRewardItemID": 100,
+    "dRewardAmount": 100
+  },
+  {
+    "nID": 20001,
+    "nRankType": 2,
+    "bIsDisplay": 1,
+    "nRank": 1,
+    "nRankPercentOver": -1,
+    "nRewardItemID": 100,
+    "dRewardAmount": 15000
+  },
+  {
+    "nID": 20002,
+    "nRankType": 2,
+    "bIsDisplay": 1,
+    "nRank": 2,
+    "nRankPercentOver": -1,
+    "nRewardItemID": 100,
+    "dRewardAmount": 10000
+  },
+  {
+    "nID": 20003,
+    "nRankType": 2,
+    "bIsDisplay": 1,
+    "nRank": 3,
+    "nRankPercentOver": -1,
+    "nRewardItemID": 100,
+    "dRewardAmount": 5000
+  },
+  {
+    "nID": 20004,
+    "nRankType": 2,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 0,
+    "nRewardItemID": 100,
+    "dRewardAmount": 2000
+  },
+  {
+    "nID": 20005,
+    "nRankType": 2,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 6,
+    "nRewardItemID": 100,
+    "dRewardAmount": 1000
+  },
+  {
+    "nID": 20006,
+    "nRankType": 2,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 11,
+    "nRewardItemID": 100,
+    "dRewardAmount": 700
+  },
+  {
+    "nID": 20007,
+    "nRankType": 2,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 21,
+    "nRewardItemID": 100,
+    "dRewardAmount": 500
+  },
+  {
+    "nID": 20008,
+    "nRankType": 2,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 31,
+    "nRewardItemID": 100,
+    "dRewardAmount": 300
+  },
+  {
+    "nID": 20009,
+    "nRankType": 2,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 51,
+    "nRewardItemID": 100,
+    "dRewardAmount": 200
+  },
+  {
+    "nID": 20010,
+    "nRankType": 2,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 71,
+    "nRewardItemID": 100,
+    "dRewardAmount": 100
+  },
+  {
+    "nID": 30001,
+    "nRankType": 3,
+    "bIsDisplay": 1,
+    "nRank": 1,
+    "nRankPercentOver": -1,
+    "nRewardItemID": 100,
+    "dRewardAmount": 5000
+  },
+  {
+    "nID": 30002,
+    "nRankType": 3,
+    "bIsDisplay": 1,
+    "nRank": 2,
+    "nRankPercentOver": -1,
+    "nRewardItemID": 100,
+    "dRewardAmount": 2000
+  },
+  {
+    "nID": 30003,
+    "nRankType": 3,
+    "bIsDisplay": 1,
+    "nRank": 3,
+    "nRankPercentOver": -1,
+    "nRewardItemID": 100,
+    "dRewardAmount": 1000
+  },
+  {
+    "nID": 30004,
+    "nRankType": 3,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 0,
+    "nRewardItemID": 100,
+    "dRewardAmount": 700
+  },
+  {
+    "nID": 30005,
+    "nRankType": 3,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 6,
+    "nRewardItemID": 100,
+    "dRewardAmount": 500
+  },
+  {
+    "nID": 30006,
+    "nRankType": 3,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 11,
+    "nRewardItemID": 100,
+    "dRewardAmount": 400
+  },
+  {
+    "nID": 30007,
+    "nRankType": 3,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 21,
+    "nRewardItemID": 100,
+    "dRewardAmount": 300
+  },
+  {
+    "nID": 30008,
+    "nRankType": 3,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 31,
+    "nRewardItemID": 100,
+    "dRewardAmount": 200
+  },
+  {
+    "nID": 30009,
+    "nRankType": 3,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 51,
+    "nRewardItemID": 100,
+    "dRewardAmount": 100
+  },
+  {
+    "nID": 30010,
+    "nRankType": 3,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 71,
+    "nRewardItemID": 100,
+    "dRewardAmount": 50
+  },
+  {
+    "nID": 40001,
+    "nRankType": 4,
+    "bIsDisplay": 1,
+    "nRank": 1,
+    "nRankPercentOver": -1,
+    "nRewardItemID": 100,
+    "dRewardAmount": 5000
+  },
+  {
+    "nID": 40002,
+    "nRankType": 4,
+    "bIsDisplay": 1,
+    "nRank": 2,
+    "nRankPercentOver": -1,
+    "nRewardItemID": 100,
+    "dRewardAmount": 2000
+  },
+  {
+    "nID": 40003,
+    "nRankType": 4,
+    "bIsDisplay": 1,
+    "nRank": 3,
+    "nRankPercentOver": -1,
+    "nRewardItemID": 100,
+    "dRewardAmount": 1000
+  },
+  {
+    "nID": 40004,
+    "nRankType": 4,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 0,
+    "nRewardItemID": 100,
+    "dRewardAmount": 700
+  },
+  {
+    "nID": 40005,
+    "nRankType": 4,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 6,
+    "nRewardItemID": 100,
+    "dRewardAmount": 500
+  },
+  {
+    "nID": 40006,
+    "nRankType": 4,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 11,
+    "nRewardItemID": 100,
+    "dRewardAmount": 400
+  },
+  {
+    "nID": 40007,
+    "nRankType": 4,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 21,
+    "nRewardItemID": 100,
+    "dRewardAmount": 300
+  },
+  {
+    "nID": 40008,
+    "nRankType": 4,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 31,
+    "nRewardItemID": 100,
+    "dRewardAmount": 200
+  },
+  {
+    "nID": 40009,
+    "nRankType": 4,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 51,
+    "nRewardItemID": 100,
+    "dRewardAmount": 100
+  },
+  {
+    "nID": 40010,
+    "nRankType": 4,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 71,
+    "nRewardItemID": 100,
+    "dRewardAmount": 50
+  },
+  {
+    "nID": 50001,
+    "nRankType": 5,
+    "bIsDisplay": 1,
+    "nRank": 1,
+    "nRankPercentOver": -1,
+    "nRewardItemID": 100,
+    "dRewardAmount": 2000
+  },
+  {
+    "nID": 50002,
+    "nRankType": 5,
+    "bIsDisplay": 1,
+    "nRank": 2,
+    "nRankPercentOver": -1,
+    "nRewardItemID": 100,
+    "dRewardAmount": 1000
+  },
+  {
+    "nID": 50003,
+    "nRankType": 5,
+    "bIsDisplay": 1,
+    "nRank": 3,
+    "nRankPercentOver": -1,
+    "nRewardItemID": 100,
+    "dRewardAmount": 500
+  },
+  {
+    "nID": 50004,
+    "nRankType": 5,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 0,
+    "nRewardItemID": 100,
+    "dRewardAmount": 100
+  },
+  {
+    "nID": 50005,
+    "nRankType": 5,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 6,
+    "nRewardItemID": 100,
+    "dRewardAmount": 70
+  },
+  {
+    "nID": 50006,
+    "nRankType": 5,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 11,
+    "nRewardItemID": 100,
+    "dRewardAmount": 50
+  },
+  {
+    "nID": 50007,
+    "nRankType": 5,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 21,
+    "nRewardItemID": 100,
+    "dRewardAmount": 40
+  },
+  {
+    "nID": 50008,
+    "nRankType": 5,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 31,
+    "nRewardItemID": 100,
+    "dRewardAmount": 30
+  },
+  {
+    "nID": 50009,
+    "nRankType": 5,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 51,
+    "nRewardItemID": 100,
+    "dRewardAmount": 20
+  },
+  {
+    "nID": 50010,
+    "nRankType": 5,
+    "bIsDisplay": 1,
+    "nRank": -1,
+    "nRankPercentOver": 71,
+    "nRewardItemID": 100,
+    "dRewardAmount": 10
+  }
+]

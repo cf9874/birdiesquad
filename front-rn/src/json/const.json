@@ -1,0 +1,861 @@
+[
+  {
+    "nnID": 10,
+    "nID": "TOUR_REWARD_CHARGE",
+    "nIntValue": -1,
+    "dDoubleValue": -0.1,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 11,
+    "nID": "REWARD_FORMULA_VARIABLE",
+    "nIntValue": -1,
+    "dDoubleValue": 6.25,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 20,
+    "nID": "BONUS_REWARD_NFT_GRADE_RARE",
+    "nIntValue": 1,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 21,
+    "nID": "BONUS_REWARD_NFT_GRADE_SUPERRARE",
+    "nIntValue": 2,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 22,
+    "nID": "BONUS_REWARD_NFT_GRADE_EPIC",
+    "nIntValue": 3,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 23,
+    "nID": "BONUS_REWARD_NFT_GRADE_LEGENDARY",
+    "nIntValue": 5,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 30,
+    "nID": "BDST_FREE_SETTING",
+    "nIntValue": 30,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 31,
+    "nID": "LEVELPOINT_FREE_SETTING",
+    "nIntValue": 100,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 40,
+    "nID": "TERMS_UNITED_LINK",
+    "nIntValue": -1,
+    "dDoubleValue": 0,
+    "sStrValue": "https://kakaovx.com/agreement.php?type=terms",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 41,
+    "nID": "TERMS_SERVICE_LINK",
+    "nIntValue": -1,
+    "dDoubleValue": 0,
+    "sStrValue": "https://birdiesquad.io/terms/use_service.html",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 42,
+    "nID": "TERMS_PRIVACY_LINK",
+    "nIntValue": -1,
+    "dDoubleValue": 0,
+    "sStrValue": "https://birdiesquad.io/terms/use_person_info_policy.html",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 43,
+    "nID": "TERMS_MARKETING_LINK",
+    "nIntValue": -1,
+    "dDoubleValue": 0,
+    "sStrValue": "https://birdiesquad.io/terms/use_markting.html",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 50,
+    "nID": "SIGN_REWARD",
+    "nIntValue": 202301,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 100,
+    "nID": "GET_LIMITED_NFT",
+    "nIntValue": 9999,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 101,
+    "nID": "GET_LIMITED_LEVELPOINT",
+    "nIntValue": -1,
+    "dDoubleValue": 9999999999.99,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 102,
+    "nID": "GET_LIMITED_BDST",
+    "nIntValue": -1,
+    "dDoubleValue": 9999999999.99,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 103,
+    "nID": "GET_LIMITED_tBORA",
+    "nIntValue": -1,
+    "dDoubleValue": 9999999999.99,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 110,
+    "nID": "FEE_SELLECT_TBORA_SPENDING_TO_WALLET",
+    "nIntValue": 1,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 111,
+    "nID": "FEE_SELLECT_BDST_SPENDING_TO_WALLET",
+    "nIntValue": 3,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 112,
+    "nID": "FEE_SELLECT_TBORA_WALLET_TO_SPENDING",
+    "nIntValue": 0.5,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 113,
+    "nID": "FEE_SELLECT_BDST_WALLET_TO_SPENDING",
+    "nIntValue": 0.5,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 120,
+    "nID": "DAILY_LIMITED_TBORA_SPENDING_TO_WALLET",
+    "nIntValue": 10000,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 121,
+    "nID": "DAILY_LIMITED_BDST_SPENDING_TO_WALLET",
+    "nIntValue": 30000,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 200,
+    "nID": "NFT_TRANSFER_FEE_TO_WALLET",
+    "nIntValue": 1,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 301,
+    "nID": "NFT_SLOT_MAX_LIMIT_COUNT",
+    "nIntValue": 999999,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 400,
+    "nID": "NFT_GET_FREE_TRANSFER_LIMITED",
+    "nIntValue": 99,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 500,
+    "nID": "SQUAD_SET_NFT_COUNT",
+    "nIntValue": 5,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 501,
+    "nID": "SQUAD_CHANGE_TIME_HOUR",
+    "nIntValue": 8,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 502,
+    "nID": "SQUAD_CHANGE_BY_1ROUND_NFT_COUNT",
+    "nIntValue": 1,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 503,
+    "nID": "SQUAD_CHANGE_BY_2ROUND_NFT_COUNT",
+    "nIntValue": 1,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 504,
+    "nID": "SQUAD_CHANGE_BY_3ROUND_NFT_COUNT",
+    "nIntValue": 1,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 10000,
+    "nID": "NFT_ENERGY_ONCE_CHARGE_COST",
+    "nIntValue": -1,
+    "dDoubleValue": 0.2,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 20000,
+    "nID": "TV_MESSAGE_RESET_TIME_SEC",
+    "nIntValue": -1,
+    "dDoubleValue": 1,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 20001,
+    "nID": "TV_MESSAGE_RESET_MAX_COUNT",
+    "nIntValue": 3,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 20002,
+    "nID": "TV_MESSAGE_CHARACTER_LIMIT_COUNT",
+    "nIntValue": 30,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 20003,
+    "nID": "TV_RANK_NOTICE_SEND_LIMIT_TIME_SEC",
+    "nIntValue": 60,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 20004,
+    "nID": "TV_MESSAGE_HIDE_REPORT_COUNT",
+    "nIntValue": 3,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 20005,
+    "nID": "TV_MESSAGE_PLASTER_TIME_SEC",
+    "nIntValue": 4,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 20006,
+    "nID": "TV_CHATBOT_BOX_REMOVE_TIME_SEC",
+    "nIntValue": 30,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 20007,
+    "nID": "TV_CHATBOT_BOX_BLINK_TIME_SEC",
+    "nIntValue": 10,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 21000,
+    "nID": "TV_TOTAL_SUPPORTBALL_RESET_TIME_SEC",
+    "nIntValue": -1,
+    "dDoubleValue": 10,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 21001,
+    "nID": "TV_HEART_COST_ONCE",
+    "nIntValue": -1,
+    "dDoubleValue": 1,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 21002,
+    "nID": "TV_HEART_APPLY_TIME_SEC",
+    "nIntValue": -1,
+    "dDoubleValue": 0.5,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 21003,
+    "nID": "TV_HEART_EFFECT_CREATE_MIN_TIME_SEC",
+    "nIntValue": 3,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 21004,
+    "nID": "TV_HEART_EFFECT_CREATE_MAX_TIME_SEC",
+    "nIntValue": 6,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 21005,
+    "nID": "TV_HEART_TOUCH_MAX_COUNT",
+    "nIntValue": 100,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 21006,
+    "nID": "TV_HEART_UNLOCK_TIME_SEC",
+    "nIntValue": -1,
+    "dDoubleValue": 0.5,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 22000,
+    "nID": "TV_TALK_TOKEN_DECIMAL_LIMIT_VALUE",
+    "nIntValue": 2,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 23000,
+    "nID": "TV_PICK_RESET_TIME_SEC",
+    "nIntValue": 60,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 23001,
+    "nID": "TV_PICK_BASIC_TOKEN_CASH_VALUE",
+    "nIntValue": 100,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 23002,
+    "nID": "TV_PICK_PER_TOKEN_SCORE",
+    "nIntValue": 5,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 23003,
+    "nID": "TV_PICK_BASIC_SUPPORTBALL_TOUCH_COUNT",
+    "nIntValue": 1,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 23004,
+    "nID": "TV_PICK_PER_SUPPORTBALL_SCORE",
+    "nIntValue": 1,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 23005,
+    "nID": "TV_PICK_REWARD_DECIMAL_LIMIT_COUNT",
+    "nIntValue": 8,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 23006,
+    "nID": "TV_PICK_REWARD_COMMISSION_PERCENT",
+    "nIntValue": 10,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 23007,
+    "nID": "TV_PICK_INIT_REWARD_COUNT",
+    "nIntValue": 30000,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 23008,
+    "nID": "TV_PICK_ALL_SHARE_PERCENT",
+    "nIntValue": 50,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 24000,
+    "nID": "TV_SUPPORT_DEADLINE_TIME_SEC",
+    "nIntValue": 60,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 24001,
+    "nID": "TV_READERBOARD_PRO_NAME_LIMIT_COUNT",
+    "nIntValue": 6,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 25000,
+    "nID": "TV_VIEW_REWARD_TIME_SEC",
+    "nIntValue": 10,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 25001,
+    "nID": "TV_VIEW_REWARD_POINT_ONCE",
+    "nIntValue": -1,
+    "dDoubleValue": 10,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 26000,
+    "nID": "RANK_RESET_TIME_SEC",
+    "nIntValue": 300,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 30000,
+    "nID": "PROFILE_NICKNAME_LIMIT_COUNT",
+    "nIntValue": 9,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 30001,
+    "nID": "PROFILE_GREETING_LIMIT_COUNT",
+    "nIntValue": 35,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 30002,
+    "nID": "PROFILE_GREETING_NULL_LOCAL_ID",
+    "nIntValue": 160027,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 30003,
+    "nID": "PROFILE_NFT_DISPLAY_COUNT",
+    "nIntValue": 10,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 30004,
+    "nID": "PROFILE_PRO_TOUR_SCORE_LOAD_COUNT",
+    "nIntValue": 10,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 30005,
+    "nID": "PROFILE_PRO_TOUR_SCORE_MAX_COUNT",
+    "nIntValue": 40,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 30006,
+    "nID": "PROFILE_NICKNAME_MIN_COUNT",
+    "nIntValue": 2,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 30007,
+    "nID": "PROFILE_REPORT_RESET_DAY",
+    "nIntValue": 7,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 40000,
+    "nID": "MY_TOUR_RECORD_LOAD_SEASON_COUNT",
+    "nIntValue": 3,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 40001,
+    "nID": "MY_TOUR_RECORD_MAX_LOAD_SEASON_COUNT",
+    "nIntValue": 10,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 41000,
+    "nID": "MY_PUSH_LIVE_TOUR_SET_DEFAULT",
+    "nIntValue": -1,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 1
+  },
+  {
+    "nnID": 41001,
+    "nID": "MY_PUSH_TOUR_REWARD_SET_DEFAULT",
+    "nIntValue": -1,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 1
+  },
+  {
+    "nnID": 41002,
+    "nID": "MY_PUSH_SPECIAL_RAFFLE_SET_DEFAULT",
+    "nIntValue": -1,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 1
+  },
+  {
+    "nnID": 41003,
+    "nID": "MY_PUSH_ENTRY_RAFFLE_SET_DEFAULT",
+    "nIntValue": -1,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 1
+  },
+  {
+    "nnID": 41004,
+    "nID": "MY_PUSH_PROFILE_UP_SET_DEFAULT",
+    "nIntValue": -1,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 1
+  },
+  {
+    "nnID": 41005,
+    "nID": "MY_PUSH_NFT_SALES_COMPLETE_SET_DEFAULT",
+    "nIntValue": -1,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 1
+  },
+  {
+    "nnID": 41006,
+    "nID": "MY_PUSH_ANSWER_SET_DEFAULT",
+    "nIntValue": -1,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 1
+  },
+  {
+    "nnID": 41007,
+    "nID": "MY_PUSH_HEART_POPUP_SET_DEFAULT",
+    "nIntValue": -1,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 1
+  },
+  {
+    "nnID": 41100,
+    "nID": "MY_PUSH_PROFILE_UP_COUNT_STEP_1",
+    "nIntValue": 10,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 41101,
+    "nID": "MY_PUSH_PROFILE_UP_COUNT_STEP_2",
+    "nIntValue": 50,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 41102,
+    "nID": "MY_PUSH_PROFILE_UP_COUNT_STEP_3",
+    "nIntValue": 100,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 41103,
+    "nID": "MY_PUSH_PROFILE_UP_COUNT_STEP_4",
+    "nIntValue": 500,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 41104,
+    "nID": "MY_PUSH_PROFILE_UP_COUNT_STEP_5",
+    "nIntValue": 1000,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 42000,
+    "nID": "MY_TERMS_KAKAOVX_LINK",
+    "nIntValue": -1,
+    "dDoubleValue": 0,
+    "sStrValue": "https://kakaovx.com/agreement.php?type=terms",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 43000,
+    "nID": "MY_NOTICE_HOMEPAGE_LINK",
+    "nIntValue": -1,
+    "dDoubleValue": 0,
+    "sStrValue": "https://birdiesquad.io",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 43001,
+    "nID": "MY_NOTICE_WHITEPAPER_LINK",
+    "nIntValue": -1,
+    "dDoubleValue": 0,
+    "sStrValue": "https://kakaovx.gitbook.io/birdiesquad/",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 43002,
+    "nID": "MY_NOTICE_DISCORD_LINK",
+    "nIntValue": -1,
+    "dDoubleValue": 0,
+    "sStrValue": "https://discord.gg/PCCKz49Q",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 43003,
+    "nID": "MY_NOTICE_TWITTER_LINK",
+    "nIntValue": -1,
+    "dDoubleValue": 0,
+    "sStrValue": "https://m.twitter.com/birdiesquad_io",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 43004,
+    "nID": "MY_NOTICE_INSTAGRAM_LINK",
+    "nIntValue": -1,
+    "dDoubleValue": 0,
+    "sStrValue": "https://m.instagram.com/birdiesquad_io?igshid=YmMyMTA2M2Y=",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 43005,
+    "nID": "MY_NOTICE_YOUTUBE_LINK",
+    "nIntValue": -1,
+    "dDoubleValue": 0,
+    "sStrValue": "https://m.youtube.com/playlist?list=PLHIZt8lIyOHWF9yhdUMFOdO3ymNKr_rsW",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 44000,
+    "nID": "MY_FAQ_BUY_PLAYER_ENV_LINK",
+    "nIntValue": -1,
+    "dDoubleValue": 0,
+    "sStrValue": "https://bdsqd-stg-web.kakaovx.net/market/list?token=",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 45000,
+    "nID": "MY_OPTION_LICENSE_LINK",
+    "nIntValue": -1,
+    "dDoubleValue": 0,
+    "sStrValue": "https://birdiesquad.notion.site/04bee4ec2b5a4246a12dadfb6dff784a?pvs=4",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 50000,
+    "nID": "MARKET_RAFFLE_DISPLAY_LIMIT_COUNT",
+    "nIntValue": 35,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 50001,
+    "nID": "MARKET_NFT_CHOICE_PRO_LIST",
+    "nIntValue": -1,
+    "dDoubleValue": 0,
+    "sStrValue": [
+      202301345,
+      202300025,
+      202303125,
+      202341257,
+      202300052,
+      202300261,
+      202300073,
+      202300085,
+      202300068,
+      202302345
+    ],
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 50002,
+    "nID": "MARKET_RAFFLE_WIN_USER_LINK",
+    "nIntValue": -1,
+    "dDoubleValue": 0,
+    "sStrValue": "https://kakaovx.com/agreement.php?type=terms",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 50003,
+    "nID": "MARKET_RAFFLE_WIN_USER_NAME_LIMIT_COUNT",
+    "nIntValue": 20,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 50004,
+    "nID": "MARKET_NFT_REFUND_TERM_LINK",
+    "nIntValue": -1,
+    "dDoubleValue": 0,
+    "sStrValue": "https://kakaovx.com/agreement.php?type=terms",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 50005,
+    "nID": "MARKET_RAFFLE_END_DISPLAY_MAX_COUNT",
+    "nIntValue": 10,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 60000,
+    "nID": "NFT_RARE_GRADE_REWARD_BONUS",
+    "nIntValue": 1,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 60001,
+    "nID": "NFT_SUPERRARE_GRADE_REWARD_BONUS",
+    "nIntValue": 2,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 60002,
+    "nID": "NFT_EPIC_GRADE_REWARD_BONUS",
+    "nIntValue": 3,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 60003,
+    "nID": "NFT_LEGENDARY_GRADE_REWARD_BONUS",
+    "nIntValue": 5,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 70000,
+    "nID": "PUSH_TOUR_REWARD_TIME_HOUR",
+    "nIntValue": 9,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  },
+  {
+    "nnID": 80000,
+    "nID": "TUTORIAL_NEXT_BUTTON_VISIBLE_TIME_SEC",
+    "nIntValue": 2,
+    "dDoubleValue": 0,
+    "sStrValue": "",
+    "bBoolValue": 0
+  }
+]

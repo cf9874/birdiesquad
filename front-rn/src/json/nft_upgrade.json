@@ -1,0 +1,1922 @@
+[
+  {
+    "nID": 10001,
+    "nGrade": 1,
+    "nLevel": 1,
+    "nRequiredLevelPoint": 10,
+    "nRequiredToken": 0,
+    "listEagle": [
+      5,
+      50
+    ],
+    "listBirdie": [
+      0,
+      6
+    ],
+    "listPar": [
+      -4,
+      0
+    ],
+    "listBogey": [
+      -6,
+      0
+    ],
+    "listDouble": [
+      -11,
+      0
+    ],
+    "listEarn": [
+      5,
+      30
+    ],
+    "nRewardLevelPoint": 100
+  },
+  {
+    "nID": 10002,
+    "nGrade": 1,
+    "nLevel": 2,
+    "nRequiredLevelPoint": 15,
+    "nRequiredToken": 5,
+    "listEagle": [
+      10,
+      30
+    ],
+    "listBirdie": [
+      2,
+      5
+    ],
+    "listPar": [
+      1,
+      3
+    ],
+    "listBogey": [
+      -6,
+      -3
+    ],
+    "listDouble": [
+      -11,
+      -6
+    ],
+    "listEarn": [
+      17,
+      30
+    ],
+    "nRewardLevelPoint": 105
+  },
+  {
+    "nID": 10003,
+    "nGrade": 1,
+    "nLevel": 3,
+    "nRequiredLevelPoint": 20,
+    "nRequiredToken": 10,
+    "listEagle": [
+      10,
+      30
+    ],
+    "listBirdie": [
+      2,
+      5
+    ],
+    "listPar": [
+      1,
+      3
+    ],
+    "listBogey": [
+      -6,
+      -3
+    ],
+    "listDouble": [
+      -11,
+      -6
+    ],
+    "listEarn": [
+      17,
+      30
+    ],
+    "nRewardLevelPoint": 110
+  },
+  {
+    "nID": 10004,
+    "nGrade": 1,
+    "nLevel": 4,
+    "nRequiredLevelPoint": 25,
+    "nRequiredToken": 15,
+    "listEagle": [
+      10,
+      30
+    ],
+    "listBirdie": [
+      2,
+      5
+    ],
+    "listPar": [
+      1,
+      3
+    ],
+    "listBogey": [
+      -6,
+      -3
+    ],
+    "listDouble": [
+      -11,
+      -6
+    ],
+    "listEarn": [
+      17,
+      30
+    ],
+    "nRewardLevelPoint": 115
+  },
+  {
+    "nID": 10005,
+    "nGrade": 1,
+    "nLevel": 5,
+    "nRequiredLevelPoint": 30,
+    "nRequiredToken": 20,
+    "listEagle": [
+      10,
+      30
+    ],
+    "listBirdie": [
+      2,
+      5
+    ],
+    "listPar": [
+      1,
+      3
+    ],
+    "listBogey": [
+      -6,
+      -3
+    ],
+    "listDouble": [
+      -11,
+      -6
+    ],
+    "listEarn": [
+      17,
+      30
+    ],
+    "nRewardLevelPoint": 120
+  },
+  {
+    "nID": 10006,
+    "nGrade": 1,
+    "nLevel": 6,
+    "nRequiredLevelPoint": 35,
+    "nRequiredToken": 25,
+    "listEagle": [
+      10,
+      30
+    ],
+    "listBirdie": [
+      2,
+      5
+    ],
+    "listPar": [
+      1,
+      3
+    ],
+    "listBogey": [
+      -6,
+      -3
+    ],
+    "listDouble": [
+      -11,
+      -6
+    ],
+    "listEarn": [
+      17,
+      30
+    ],
+    "nRewardLevelPoint": 125
+  },
+  {
+    "nID": 10007,
+    "nGrade": 1,
+    "nLevel": 7,
+    "nRequiredLevelPoint": 40,
+    "nRequiredToken": 30,
+    "listEagle": [
+      10,
+      30
+    ],
+    "listBirdie": [
+      2,
+      5
+    ],
+    "listPar": [
+      1,
+      3
+    ],
+    "listBogey": [
+      -6,
+      -3
+    ],
+    "listDouble": [
+      -11,
+      -6
+    ],
+    "listEarn": [
+      17,
+      30
+    ],
+    "nRewardLevelPoint": 130
+  },
+  {
+    "nID": 10008,
+    "nGrade": 1,
+    "nLevel": 8,
+    "nRequiredLevelPoint": 50,
+    "nRequiredToken": 35,
+    "listEagle": [
+      10,
+      30
+    ],
+    "listBirdie": [
+      2,
+      5
+    ],
+    "listPar": [
+      1,
+      3
+    ],
+    "listBogey": [
+      -6,
+      -3
+    ],
+    "listDouble": [
+      -11,
+      -6
+    ],
+    "listEarn": [
+      17,
+      30
+    ],
+    "nRewardLevelPoint": 135
+  },
+  {
+    "nID": 10009,
+    "nGrade": 1,
+    "nLevel": 9,
+    "nRequiredLevelPoint": 60,
+    "nRequiredToken": 40,
+    "listEagle": [
+      10,
+      30
+    ],
+    "listBirdie": [
+      2,
+      5
+    ],
+    "listPar": [
+      1,
+      3
+    ],
+    "listBogey": [
+      -6,
+      -3
+    ],
+    "listDouble": [
+      -11,
+      -6
+    ],
+    "listEarn": [
+      17,
+      30
+    ],
+    "nRewardLevelPoint": 140
+  },
+  {
+    "nID": 10010,
+    "nGrade": 1,
+    "nLevel": 10,
+    "nRequiredLevelPoint": 70,
+    "nRequiredToken": 45,
+    "listEagle": [
+      10,
+      30
+    ],
+    "listBirdie": [
+      2,
+      5
+    ],
+    "listPar": [
+      1,
+      3
+    ],
+    "listBogey": [
+      -6,
+      -3
+    ],
+    "listDouble": [
+      -11,
+      -6
+    ],
+    "listEarn": [
+      17,
+      30
+    ],
+    "nRewardLevelPoint": 145
+  },
+  {
+    "nID": 10011,
+    "nGrade": 1,
+    "nLevel": 11,
+    "nRequiredLevelPoint": 80,
+    "nRequiredToken": 50,
+    "listEagle": [
+      10,
+      30
+    ],
+    "listBirdie": [
+      2,
+      5
+    ],
+    "listPar": [
+      1,
+      3
+    ],
+    "listBogey": [
+      -6,
+      -3
+    ],
+    "listDouble": [
+      -11,
+      -6
+    ],
+    "listEarn": [
+      17,
+      30
+    ],
+    "nRewardLevelPoint": 150
+  },
+  {
+    "nID": 10012,
+    "nGrade": 1,
+    "nLevel": 12,
+    "nRequiredLevelPoint": 95,
+    "nRequiredToken": 60,
+    "listEagle": [
+      10,
+      30
+    ],
+    "listBirdie": [
+      2,
+      5
+    ],
+    "listPar": [
+      1,
+      3
+    ],
+    "listBogey": [
+      -6,
+      -3
+    ],
+    "listDouble": [
+      -11,
+      -6
+    ],
+    "listEarn": [
+      17,
+      30
+    ],
+    "nRewardLevelPoint": 155
+  },
+  {
+    "nID": 10013,
+    "nGrade": 1,
+    "nLevel": 13,
+    "nRequiredLevelPoint": 115,
+    "nRequiredToken": 70,
+    "listEagle": [
+      10,
+      30
+    ],
+    "listBirdie": [
+      2,
+      5
+    ],
+    "listPar": [
+      1,
+      3
+    ],
+    "listBogey": [
+      -6,
+      -3
+    ],
+    "listDouble": [
+      -11,
+      -6
+    ],
+    "listEarn": [
+      17,
+      30
+    ],
+    "nRewardLevelPoint": 160
+  },
+  {
+    "nID": 10014,
+    "nGrade": 1,
+    "nLevel": 14,
+    "nRequiredLevelPoint": 140,
+    "nRequiredToken": 80,
+    "listEagle": [
+      10,
+      30
+    ],
+    "listBirdie": [
+      2,
+      5
+    ],
+    "listPar": [
+      1,
+      3
+    ],
+    "listBogey": [
+      -6,
+      -3
+    ],
+    "listDouble": [
+      -11,
+      -6
+    ],
+    "listEarn": [
+      17,
+      30
+    ],
+    "nRewardLevelPoint": 165
+  },
+  {
+    "nID": 10015,
+    "nGrade": 1,
+    "nLevel": 15,
+    "nRequiredLevelPoint": 0,
+    "nRequiredToken": 100,
+    "listEagle": [
+      10,
+      30
+    ],
+    "listBirdie": [
+      2,
+      5
+    ],
+    "listPar": [
+      1,
+      3
+    ],
+    "listBogey": [
+      -6,
+      -3
+    ],
+    "listDouble": [
+      -11,
+      -6
+    ],
+    "listEarn": [
+      17,
+      30
+    ],
+    "nRewardLevelPoint": 170
+  },
+  {
+    "nID": 20001,
+    "nGrade": 2,
+    "nLevel": 1,
+    "nRequiredLevelPoint": 150,
+    "nRequiredToken": 0,
+    "listEagle": [
+      50,
+      90
+    ],
+    "listBirdie": [
+      10,
+      25
+    ],
+    "listPar": [
+      5,
+      12
+    ],
+    "listBogey": [
+      -20,
+      -8
+    ],
+    "listDouble": [
+      -35,
+      -12
+    ],
+    "listEarn": [
+      30,
+      90
+    ],
+    "nRewardLevelPoint": 200
+  },
+  {
+    "nID": 20002,
+    "nGrade": 2,
+    "nLevel": 2,
+    "nRequiredLevelPoint": 190,
+    "nRequiredToken": 120,
+    "listEagle": [
+      50,
+      75
+    ],
+    "listBirdie": [
+      10,
+      19
+    ],
+    "listPar": [
+      5,
+      8
+    ],
+    "listBogey": [
+      -20,
+      -14
+    ],
+    "listDouble": [
+      -35,
+      -25
+    ],
+    "listEarn": [
+      45,
+      90
+    ],
+    "nRewardLevelPoint": 250
+  },
+  {
+    "nID": 20003,
+    "nGrade": 2,
+    "nLevel": 3,
+    "nRequiredLevelPoint": 230,
+    "nRequiredToken": 140,
+    "listEagle": [
+      50,
+      75
+    ],
+    "listBirdie": [
+      10,
+      19
+    ],
+    "listPar": [
+      5,
+      8
+    ],
+    "listBogey": [
+      -20,
+      -14
+    ],
+    "listDouble": [
+      -35,
+      -25
+    ],
+    "listEarn": [
+      45,
+      90
+    ],
+    "nRewardLevelPoint": 300
+  },
+  {
+    "nID": 20004,
+    "nGrade": 2,
+    "nLevel": 4,
+    "nRequiredLevelPoint": 270,
+    "nRequiredToken": 160,
+    "listEagle": [
+      50,
+      75
+    ],
+    "listBirdie": [
+      10,
+      19
+    ],
+    "listPar": [
+      5,
+      8
+    ],
+    "listBogey": [
+      -20,
+      -14
+    ],
+    "listDouble": [
+      -35,
+      -25
+    ],
+    "listEarn": [
+      45,
+      90
+    ],
+    "nRewardLevelPoint": 350
+  },
+  {
+    "nID": 20005,
+    "nGrade": 2,
+    "nLevel": 5,
+    "nRequiredLevelPoint": 310,
+    "nRequiredToken": 180,
+    "listEagle": [
+      50,
+      75
+    ],
+    "listBirdie": [
+      10,
+      19
+    ],
+    "listPar": [
+      5,
+      8
+    ],
+    "listBogey": [
+      -20,
+      -14
+    ],
+    "listDouble": [
+      -35,
+      -25
+    ],
+    "listEarn": [
+      45,
+      90
+    ],
+    "nRewardLevelPoint": 400
+  },
+  {
+    "nID": 20006,
+    "nGrade": 2,
+    "nLevel": 6,
+    "nRequiredLevelPoint": 350,
+    "nRequiredToken": 200,
+    "listEagle": [
+      50,
+      75
+    ],
+    "listBirdie": [
+      10,
+      19
+    ],
+    "listPar": [
+      5,
+      8
+    ],
+    "listBogey": [
+      -20,
+      -14
+    ],
+    "listDouble": [
+      -35,
+      -25
+    ],
+    "listEarn": [
+      45,
+      90
+    ],
+    "nRewardLevelPoint": 450
+  },
+  {
+    "nID": 20007,
+    "nGrade": 2,
+    "nLevel": 7,
+    "nRequiredLevelPoint": 390,
+    "nRequiredToken": 220,
+    "listEagle": [
+      50,
+      75
+    ],
+    "listBirdie": [
+      10,
+      19
+    ],
+    "listPar": [
+      5,
+      8
+    ],
+    "listBogey": [
+      -20,
+      -14
+    ],
+    "listDouble": [
+      -35,
+      -25
+    ],
+    "listEarn": [
+      45,
+      90
+    ],
+    "nRewardLevelPoint": 500
+  },
+  {
+    "nID": 20008,
+    "nGrade": 2,
+    "nLevel": 8,
+    "nRequiredLevelPoint": 430,
+    "nRequiredToken": 240,
+    "listEagle": [
+      50,
+      75
+    ],
+    "listBirdie": [
+      10,
+      19
+    ],
+    "listPar": [
+      5,
+      8
+    ],
+    "listBogey": [
+      -20,
+      -14
+    ],
+    "listDouble": [
+      -35,
+      -25
+    ],
+    "listEarn": [
+      45,
+      90
+    ],
+    "nRewardLevelPoint": 550
+  },
+  {
+    "nID": 20009,
+    "nGrade": 2,
+    "nLevel": 9,
+    "nRequiredLevelPoint": 470,
+    "nRequiredToken": 260,
+    "listEagle": [
+      50,
+      75
+    ],
+    "listBirdie": [
+      10,
+      19
+    ],
+    "listPar": [
+      5,
+      8
+    ],
+    "listBogey": [
+      -20,
+      -14
+    ],
+    "listDouble": [
+      -35,
+      -25
+    ],
+    "listEarn": [
+      45,
+      90
+    ],
+    "nRewardLevelPoint": 600
+  },
+  {
+    "nID": 20010,
+    "nGrade": 2,
+    "nLevel": 10,
+    "nRequiredLevelPoint": 510,
+    "nRequiredToken": 280,
+    "listEagle": [
+      50,
+      75
+    ],
+    "listBirdie": [
+      10,
+      19
+    ],
+    "listPar": [
+      5,
+      8
+    ],
+    "listBogey": [
+      -20,
+      -14
+    ],
+    "listDouble": [
+      -35,
+      -25
+    ],
+    "listEarn": [
+      45,
+      90
+    ],
+    "nRewardLevelPoint": 650
+  },
+  {
+    "nID": 20011,
+    "nGrade": 2,
+    "nLevel": 11,
+    "nRequiredLevelPoint": 560,
+    "nRequiredToken": 300,
+    "listEagle": [
+      50,
+      75
+    ],
+    "listBirdie": [
+      10,
+      19
+    ],
+    "listPar": [
+      5,
+      8
+    ],
+    "listBogey": [
+      -20,
+      -14
+    ],
+    "listDouble": [
+      -35,
+      -25
+    ],
+    "listEarn": [
+      45,
+      90
+    ],
+    "nRewardLevelPoint": 700
+  },
+  {
+    "nID": 20012,
+    "nGrade": 2,
+    "nLevel": 12,
+    "nRequiredLevelPoint": 620,
+    "nRequiredToken": 325,
+    "listEagle": [
+      50,
+      75
+    ],
+    "listBirdie": [
+      10,
+      19
+    ],
+    "listPar": [
+      5,
+      8
+    ],
+    "listBogey": [
+      -20,
+      -14
+    ],
+    "listDouble": [
+      -35,
+      -25
+    ],
+    "listEarn": [
+      45,
+      90
+    ],
+    "nRewardLevelPoint": 750
+  },
+  {
+    "nID": 20013,
+    "nGrade": 2,
+    "nLevel": 13,
+    "nRequiredLevelPoint": 700,
+    "nRequiredToken": 355,
+    "listEagle": [
+      50,
+      75
+    ],
+    "listBirdie": [
+      10,
+      19
+    ],
+    "listPar": [
+      5,
+      8
+    ],
+    "listBogey": [
+      -20,
+      -14
+    ],
+    "listDouble": [
+      -35,
+      -25
+    ],
+    "listEarn": [
+      45,
+      90
+    ],
+    "nRewardLevelPoint": 800
+  },
+  {
+    "nID": 20014,
+    "nGrade": 2,
+    "nLevel": 14,
+    "nRequiredLevelPoint": 800,
+    "nRequiredToken": 400,
+    "listEagle": [
+      50,
+      75
+    ],
+    "listBirdie": [
+      10,
+      19
+    ],
+    "listPar": [
+      5,
+      8
+    ],
+    "listBogey": [
+      -20,
+      -14
+    ],
+    "listDouble": [
+      -35,
+      -25
+    ],
+    "listEarn": [
+      45,
+      90
+    ],
+    "nRewardLevelPoint": 850
+  },
+  {
+    "nID": 20015,
+    "nGrade": 2,
+    "nLevel": 15,
+    "nRequiredLevelPoint": 0,
+    "nRequiredToken": 470,
+    "listEagle": [
+      50,
+      75
+    ],
+    "listBirdie": [
+      10,
+      19
+    ],
+    "listPar": [
+      5,
+      8
+    ],
+    "listBogey": [
+      -20,
+      -14
+    ],
+    "listDouble": [
+      -35,
+      -25
+    ],
+    "listEarn": [
+      45,
+      90
+    ],
+    "nRewardLevelPoint": 900
+  },
+  {
+    "nID": 30001,
+    "nGrade": 3,
+    "nLevel": 1,
+    "nRequiredLevelPoint": 1000,
+    "nRequiredToken": 0,
+    "listEagle": [
+      130,
+      180
+    ],
+    "listBirdie": [
+      35,
+      80
+    ],
+    "listPar": [
+      12,
+      26
+    ],
+    "listBogey": [
+      -33,
+      -15
+    ],
+    "listDouble": [
+      -58,
+      -30
+    ],
+    "listEarn": [
+      90,
+      180
+    ],
+    "nRewardLevelPoint": 1500
+  },
+  {
+    "nID": 30002,
+    "nGrade": 3,
+    "nLevel": 2,
+    "nRequiredLevelPoint": 1150,
+    "nRequiredToken": 600,
+    "listEagle": [
+      70,
+      100
+    ],
+    "listBirdie": [
+      20,
+      30
+    ],
+    "listPar": [
+      8,
+      12
+    ],
+    "listBogey": [
+      -33,
+      -20
+    ],
+    "listDouble": [
+      -58,
+      -42
+    ],
+    "listEarn": [
+      120,
+      180
+    ],
+    "nRewardLevelPoint": 1650
+  },
+  {
+    "nID": 30003,
+    "nGrade": 3,
+    "nLevel": 3,
+    "nRequiredLevelPoint": 1300,
+    "nRequiredToken": 650,
+    "listEagle": [
+      70,
+      100
+    ],
+    "listBirdie": [
+      20,
+      30
+    ],
+    "listPar": [
+      8,
+      12
+    ],
+    "listBogey": [
+      -33,
+      -20
+    ],
+    "listDouble": [
+      -58,
+      -42
+    ],
+    "listEarn": [
+      120,
+      180
+    ],
+    "nRewardLevelPoint": 1800
+  },
+  {
+    "nID": 30004,
+    "nGrade": 3,
+    "nLevel": 4,
+    "nRequiredLevelPoint": 1450,
+    "nRequiredToken": 700,
+    "listEagle": [
+      70,
+      100
+    ],
+    "listBirdie": [
+      20,
+      30
+    ],
+    "listPar": [
+      8,
+      12
+    ],
+    "listBogey": [
+      -33,
+      -20
+    ],
+    "listDouble": [
+      -58,
+      -42
+    ],
+    "listEarn": [
+      120,
+      180
+    ],
+    "nRewardLevelPoint": 1950
+  },
+  {
+    "nID": 30005,
+    "nGrade": 3,
+    "nLevel": 5,
+    "nRequiredLevelPoint": 1600,
+    "nRequiredToken": 750,
+    "listEagle": [
+      70,
+      100
+    ],
+    "listBirdie": [
+      20,
+      30
+    ],
+    "listPar": [
+      8,
+      12
+    ],
+    "listBogey": [
+      -33,
+      -20
+    ],
+    "listDouble": [
+      -58,
+      -42
+    ],
+    "listEarn": [
+      120,
+      180
+    ],
+    "nRewardLevelPoint": 2100
+  },
+  {
+    "nID": 30006,
+    "nGrade": 3,
+    "nLevel": 6,
+    "nRequiredLevelPoint": 1750,
+    "nRequiredToken": 800,
+    "listEagle": [
+      70,
+      100
+    ],
+    "listBirdie": [
+      20,
+      30
+    ],
+    "listPar": [
+      8,
+      12
+    ],
+    "listBogey": [
+      -33,
+      -20
+    ],
+    "listDouble": [
+      -58,
+      -42
+    ],
+    "listEarn": [
+      120,
+      180
+    ],
+    "nRewardLevelPoint": 2250
+  },
+  {
+    "nID": 30007,
+    "nGrade": 3,
+    "nLevel": 7,
+    "nRequiredLevelPoint": 1900,
+    "nRequiredToken": 850,
+    "listEagle": [
+      70,
+      100
+    ],
+    "listBirdie": [
+      20,
+      30
+    ],
+    "listPar": [
+      8,
+      12
+    ],
+    "listBogey": [
+      -33,
+      -20
+    ],
+    "listDouble": [
+      -58,
+      -42
+    ],
+    "listEarn": [
+      120,
+      180
+    ],
+    "nRewardLevelPoint": 2400
+  },
+  {
+    "nID": 30008,
+    "nGrade": 3,
+    "nLevel": 8,
+    "nRequiredLevelPoint": 2050,
+    "nRequiredToken": 900,
+    "listEagle": [
+      70,
+      100
+    ],
+    "listBirdie": [
+      20,
+      30
+    ],
+    "listPar": [
+      8,
+      12
+    ],
+    "listBogey": [
+      -33,
+      -20
+    ],
+    "listDouble": [
+      -58,
+      -42
+    ],
+    "listEarn": [
+      120,
+      180
+    ],
+    "nRewardLevelPoint": 2550
+  },
+  {
+    "nID": 30009,
+    "nGrade": 3,
+    "nLevel": 9,
+    "nRequiredLevelPoint": 2200,
+    "nRequiredToken": 950,
+    "listEagle": [
+      70,
+      100
+    ],
+    "listBirdie": [
+      20,
+      30
+    ],
+    "listPar": [
+      8,
+      12
+    ],
+    "listBogey": [
+      -33,
+      -20
+    ],
+    "listDouble": [
+      -58,
+      -42
+    ],
+    "listEarn": [
+      120,
+      180
+    ],
+    "nRewardLevelPoint": 2700
+  },
+  {
+    "nID": 30010,
+    "nGrade": 3,
+    "nLevel": 10,
+    "nRequiredLevelPoint": 2350,
+    "nRequiredToken": 1000,
+    "listEagle": [
+      70,
+      100
+    ],
+    "listBirdie": [
+      20,
+      30
+    ],
+    "listPar": [
+      8,
+      12
+    ],
+    "listBogey": [
+      -33,
+      -20
+    ],
+    "listDouble": [
+      -58,
+      -42
+    ],
+    "listEarn": [
+      120,
+      180
+    ],
+    "nRewardLevelPoint": 2850
+  },
+  {
+    "nID": 30011,
+    "nGrade": 3,
+    "nLevel": 11,
+    "nRequiredLevelPoint": 2600,
+    "nRequiredToken": 1050,
+    "listEagle": [
+      70,
+      100
+    ],
+    "listBirdie": [
+      20,
+      30
+    ],
+    "listPar": [
+      8,
+      12
+    ],
+    "listBogey": [
+      -33,
+      -20
+    ],
+    "listDouble": [
+      -58,
+      -42
+    ],
+    "listEarn": [
+      120,
+      180
+    ],
+    "nRewardLevelPoint": 3000
+  },
+  {
+    "nID": 30012,
+    "nGrade": 3,
+    "nLevel": 12,
+    "nRequiredLevelPoint": 3000,
+    "nRequiredToken": 1150,
+    "listEagle": [
+      70,
+      100
+    ],
+    "listBirdie": [
+      20,
+      30
+    ],
+    "listPar": [
+      8,
+      12
+    ],
+    "listBogey": [
+      -33,
+      -20
+    ],
+    "listDouble": [
+      -58,
+      -42
+    ],
+    "listEarn": [
+      120,
+      180
+    ],
+    "nRewardLevelPoint": 3150
+  },
+  {
+    "nID": 30013,
+    "nGrade": 3,
+    "nLevel": 13,
+    "nRequiredLevelPoint": 3500,
+    "nRequiredToken": 1350,
+    "listEagle": [
+      70,
+      100
+    ],
+    "listBirdie": [
+      20,
+      30
+    ],
+    "listPar": [
+      8,
+      12
+    ],
+    "listBogey": [
+      -33,
+      -20
+    ],
+    "listDouble": [
+      -58,
+      -42
+    ],
+    "listEarn": [
+      120,
+      180
+    ],
+    "nRewardLevelPoint": 3300
+  },
+  {
+    "nID": 30014,
+    "nGrade": 3,
+    "nLevel": 14,
+    "nRequiredLevelPoint": 4000,
+    "nRequiredToken": 1650,
+    "listEagle": [
+      70,
+      100
+    ],
+    "listBirdie": [
+      20,
+      30
+    ],
+    "listPar": [
+      8,
+      12
+    ],
+    "listBogey": [
+      -33,
+      -20
+    ],
+    "listDouble": [
+      -58,
+      -42
+    ],
+    "listEarn": [
+      120,
+      180
+    ],
+    "nRewardLevelPoint": 3450
+  },
+  {
+    "nID": 30015,
+    "nGrade": 3,
+    "nLevel": 15,
+    "nRequiredLevelPoint": 0,
+    "nRequiredToken": 2000,
+    "listEagle": [
+      70,
+      100
+    ],
+    "listBirdie": [
+      20,
+      30
+    ],
+    "listPar": [
+      8,
+      12
+    ],
+    "listBogey": [
+      -33,
+      -20
+    ],
+    "listDouble": [
+      -58,
+      -42
+    ],
+    "listEarn": [
+      120,
+      180
+    ],
+    "nRewardLevelPoint": 3600
+  },
+  {
+    "nID": 40001,
+    "nGrade": 4,
+    "nLevel": 1,
+    "nRequiredLevelPoint": 4500,
+    "nRequiredToken": 0,
+    "listEagle": [
+      180,
+      250
+    ],
+    "listBirdie": [
+      65,
+      120
+    ],
+    "listPar": [
+      20,
+      30
+    ],
+    "listBogey": [
+      -48,
+      -25
+    ],
+    "listDouble": [
+      -77,
+      -50
+    ],
+    "listEarn": [
+      180,
+      320
+    ],
+    "nRewardLevelPoint": 5000
+  },
+  {
+    "nID": 40002,
+    "nGrade": 4,
+    "nLevel": 2,
+    "nRequiredLevelPoint": 5000,
+    "nRequiredToken": 2400,
+    "listEagle": [
+      100,
+      170
+    ],
+    "listBirdie": [
+      30,
+      50
+    ],
+    "listPar": [
+      12,
+      20
+    ],
+    "listBogey": [
+      -48,
+      -28
+    ],
+    "listDouble": [
+      -77,
+      -60
+    ],
+    "listEarn": [
+      200,
+      320
+    ],
+    "nRewardLevelPoint": 5500
+  },
+  {
+    "nID": 40003,
+    "nGrade": 4,
+    "nLevel": 3,
+    "nRequiredLevelPoint": 5500,
+    "nRequiredToken": 2800,
+    "listEagle": [
+      100,
+      170
+    ],
+    "listBirdie": [
+      30,
+      50
+    ],
+    "listPar": [
+      12,
+      20
+    ],
+    "listBogey": [
+      -48,
+      -28
+    ],
+    "listDouble": [
+      -77,
+      -60
+    ],
+    "listEarn": [
+      200,
+      320
+    ],
+    "nRewardLevelPoint": 6000
+  },
+  {
+    "nID": 40004,
+    "nGrade": 4,
+    "nLevel": 4,
+    "nRequiredLevelPoint": 6000,
+    "nRequiredToken": 3200,
+    "listEagle": [
+      100,
+      170
+    ],
+    "listBirdie": [
+      30,
+      50
+    ],
+    "listPar": [
+      12,
+      20
+    ],
+    "listBogey": [
+      -48,
+      -28
+    ],
+    "listDouble": [
+      -77,
+      -60
+    ],
+    "listEarn": [
+      200,
+      320
+    ],
+    "nRewardLevelPoint": 6500
+  },
+  {
+    "nID": 40005,
+    "nGrade": 4,
+    "nLevel": 5,
+    "nRequiredLevelPoint": 6500,
+    "nRequiredToken": 3600,
+    "listEagle": [
+      100,
+      170
+    ],
+    "listBirdie": [
+      30,
+      50
+    ],
+    "listPar": [
+      12,
+      20
+    ],
+    "listBogey": [
+      -48,
+      -28
+    ],
+    "listDouble": [
+      -77,
+      -60
+    ],
+    "listEarn": [
+      200,
+      320
+    ],
+    "nRewardLevelPoint": 7000
+  },
+  {
+    "nID": 40006,
+    "nGrade": 4,
+    "nLevel": 6,
+    "nRequiredLevelPoint": 7000,
+    "nRequiredToken": 4000,
+    "listEagle": [
+      100,
+      170
+    ],
+    "listBirdie": [
+      30,
+      50
+    ],
+    "listPar": [
+      12,
+      20
+    ],
+    "listBogey": [
+      -48,
+      -28
+    ],
+    "listDouble": [
+      -77,
+      -60
+    ],
+    "listEarn": [
+      200,
+      320
+    ],
+    "nRewardLevelPoint": 7500
+  },
+  {
+    "nID": 40007,
+    "nGrade": 4,
+    "nLevel": 7,
+    "nRequiredLevelPoint": 7500,
+    "nRequiredToken": 4400,
+    "listEagle": [
+      100,
+      170
+    ],
+    "listBirdie": [
+      30,
+      50
+    ],
+    "listPar": [
+      12,
+      20
+    ],
+    "listBogey": [
+      -48,
+      -28
+    ],
+    "listDouble": [
+      -77,
+      -60
+    ],
+    "listEarn": [
+      200,
+      320
+    ],
+    "nRewardLevelPoint": 8000
+  },
+  {
+    "nID": 40008,
+    "nGrade": 4,
+    "nLevel": 8,
+    "nRequiredLevelPoint": 8000,
+    "nRequiredToken": 4800,
+    "listEagle": [
+      100,
+      170
+    ],
+    "listBirdie": [
+      30,
+      50
+    ],
+    "listPar": [
+      12,
+      20
+    ],
+    "listBogey": [
+      -48,
+      -28
+    ],
+    "listDouble": [
+      -77,
+      -60
+    ],
+    "listEarn": [
+      200,
+      320
+    ],
+    "nRewardLevelPoint": 8500
+  },
+  {
+    "nID": 40009,
+    "nGrade": 4,
+    "nLevel": 9,
+    "nRequiredLevelPoint": 8500,
+    "nRequiredToken": 5200,
+    "listEagle": [
+      100,
+      170
+    ],
+    "listBirdie": [
+      30,
+      50
+    ],
+    "listPar": [
+      12,
+      20
+    ],
+    "listBogey": [
+      -48,
+      -28
+    ],
+    "listDouble": [
+      -77,
+      -60
+    ],
+    "listEarn": [
+      200,
+      320
+    ],
+    "nRewardLevelPoint": 9000
+  },
+  {
+    "nID": 40010,
+    "nGrade": 4,
+    "nLevel": 10,
+    "nRequiredLevelPoint": 9000,
+    "nRequiredToken": 5600,
+    "listEagle": [
+      100,
+      170
+    ],
+    "listBirdie": [
+      30,
+      50
+    ],
+    "listPar": [
+      12,
+      20
+    ],
+    "listBogey": [
+      -48,
+      -28
+    ],
+    "listDouble": [
+      -77,
+      -60
+    ],
+    "listEarn": [
+      200,
+      320
+    ],
+    "nRewardLevelPoint": 9500
+  },
+  {
+    "nID": 40011,
+    "nGrade": 4,
+    "nLevel": 11,
+    "nRequiredLevelPoint": 10000,
+    "nRequiredToken": 6100,
+    "listEagle": [
+      100,
+      170
+    ],
+    "listBirdie": [
+      30,
+      50
+    ],
+    "listPar": [
+      12,
+      20
+    ],
+    "listBogey": [
+      -48,
+      -28
+    ],
+    "listDouble": [
+      -77,
+      -60
+    ],
+    "listEarn": [
+      200,
+      320
+    ],
+    "nRewardLevelPoint": 10000
+  },
+  {
+    "nID": 40012,
+    "nGrade": 4,
+    "nLevel": 12,
+    "nRequiredLevelPoint": 12000,
+    "nRequiredToken": 6700,
+    "listEagle": [
+      100,
+      170
+    ],
+    "listBirdie": [
+      30,
+      50
+    ],
+    "listPar": [
+      12,
+      20
+    ],
+    "listBogey": [
+      -48,
+      -28
+    ],
+    "listDouble": [
+      -77,
+      -60
+    ],
+    "listEarn": [
+      200,
+      320
+    ],
+    "nRewardLevelPoint": 10500
+  },
+  {
+    "nID": 40013,
+    "nGrade": 4,
+    "nLevel": 13,
+    "nRequiredLevelPoint": 15000,
+    "nRequiredToken": 7500,
+    "listEagle": [
+      100,
+      170
+    ],
+    "listBirdie": [
+      30,
+      50
+    ],
+    "listPar": [
+      12,
+      20
+    ],
+    "listBogey": [
+      -48,
+      -28
+    ],
+    "listDouble": [
+      -77,
+      -60
+    ],
+    "listEarn": [
+      200,
+      320
+    ],
+    "nRewardLevelPoint": 11000
+  },
+  {
+    "nID": 40014,
+    "nGrade": 4,
+    "nLevel": 14,
+    "nRequiredLevelPoint": 20000,
+    "nRequiredToken": 8500,
+    "listEagle": [
+      100,
+      170
+    ],
+    "listBirdie": [
+      30,
+      50
+    ],
+    "listPar": [
+      12,
+      20
+    ],
+    "listBogey": [
+      -48,
+      -28
+    ],
+    "listDouble": [
+      -77,
+      -60
+    ],
+    "listEarn": [
+      200,
+      320
+    ],
+    "nRewardLevelPoint": 11500
+  },
+  {
+    "nID": 40015,
+    "nGrade": 4,
+    "nLevel": 15,
+    "nRequiredLevelPoint": 0,
+    "nRequiredToken": 10000,
+    "listEagle": [
+      100,
+      170
+    ],
+    "listBirdie": [
+      30,
+      50
+    ],
+    "listPar": [
+      12,
+      20
+    ],
+    "listBogey": [
+      -48,
+      -28
+    ],
+    "listDouble": [
+      -77,
+      -60
+    ],
+    "listEarn": [
+      200,
+      320
+    ],
+    "nRewardLevelPoint": 12000
+  }
+]

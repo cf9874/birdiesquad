@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "256639473208",
+    "project_id": "birdiesquad-52b84",
+    "storage_bucket": "birdiesquad-52b84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256639473208:android:7506663bd94cc038aeb8cd",
+        "android_client_info": {
+          "package_name": "com.kakaovx.birdiesquad.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256639473208-tj4autbsejoth3e6sk3al98k5l8af9o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqy56lNCnDNVIgm9O37omM_IsZVUSPHxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256639473208-tj4autbsejoth3e6sk3al98k5l8af9o4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "256639473208-81erlrruqh5hrhb9d9rivct7pq5j50a1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kakaovx.birdiesquad.apple.user"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "nID": 10001,
+    "nNftMinAmount": 1,
+    "nNftMaxAmount": 2,
+    "nRewardNftAmount": 1
+  },
+  {
+    "nID": 10002,
+    "nNftMinAmount": 3,
+    "nNftMaxAmount": 4,
+    "nRewardNftAmount": 2
+  },
+  {
+    "nID": 10003,
+    "nNftMinAmount": 5,
+    "nNftMaxAmount": 7,
+    "nRewardNftAmount": 3
+  },
+  {
+    "nID": 10004,
+    "nNftMinAmount": 8,
+    "nNftMaxAmount": 11,
+    "nRewardNftAmount": 4
+  },
+  {
+    "nID": 10005,
+    "nNftMinAmount": 12,
+    "nNftMaxAmount": 15,
+    "nRewardNftAmount": 6
+  },
+  {
+    "nID": 10006,
+    "nNftMinAmount": 16,
+    "nNftMaxAmount": 19,
+    "nRewardNftAmount": 8
+  },
+  {
+    "nID": 10007,
+    "nNftMinAmount": 20,
+    "nNftMaxAmount": 24,
+    "nRewardNftAmount": 11
+  },
+  {
+    "nID": 10008,
+    "nNftMinAmount": 25,
+    "nNftMaxAmount": 29,
+    "nRewardNftAmount": 14
+  },
+  {
+    "nID": 10009,
+    "nNftMinAmount": 30,
+    "nNftMaxAmount": 35,
+    "nRewardNftAmount": 17
+  },
+  {
+    "nID": 10010,
+    "nNftMinAmount": 36,
+    "nNftMaxAmount": 43,
+    "nRewardNftAmount": 20
+  },
+  {
+    "nID": 10011,
+    "nNftMinAmount": 44,
+    "nNftMaxAmount": 53,
+    "nRewardNftAmount": 24
+  },
+  {
+    "nID": 10012,
+    "nNftMinAmount": 54,
+    "nNftMaxAmount": 65,
+    "nRewardNftAmount": 28
+  },
+  {
+    "nID": 10013,
+    "nNftMinAmount": 66,
+    "nNftMaxAmount": 79,
+    "nRewardNftAmount": 33
+  },
+  {
+    "nID": 10014,
+    "nNftMinAmount": 80,
+    "nNftMaxAmount": 99999,
+    "nRewardNftAmount": 38
+  }
+]

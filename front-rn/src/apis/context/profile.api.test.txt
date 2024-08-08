@@ -1,0 +1,122 @@
+import { ABaseApi } from "./base.api"
+import { IDataWrapperRes, IErrorResData, ProfileApiData } from "../data"
+import { Alert } from "react-native"
+import { setModal } from "store/reducers/config.reducer"
+import store from "store"
+import { ErrorUtil } from "utils"
+
+// import mime from "mime";
+export class ProfileApi extends ABaseApi {
+    constructor() {
+        super()
+    }
+
+    async getInfo() {
+        const { data } = await this.get<ProfileApiData.Info.ResDao>({
+            url: "/api/v1/profile/my/detail",
+            options: await this.genAuthConfig(),
+        })
+
+        return ProfileApiData.Info.toResDto(data)
+    }
+
+    async getAsset() {
+        const { data } = await this.get<ProfileApiData.MyAsset.ResDao>({
+            url: "/api/v1/asset/my-asset",
+            options: await this.genAuthConfig(),
+        })
+
+        return ProfileApiData.MyAsset.toResDto(data)
+    }
+
+    async edit(editDto: ProfileApiData.Edit.ReqDto) {
+        const header = await this.genAuthHeader()
+        const { data } = await this.post<ProfileApiData.Edit.ResDao>({
+            url: "/api/v1/profile/edit-my-profile",
+            body: ProfileApiData.Edit.toReqDao(editDto),
+            options: {
+                headers: {
+                    ...header,
+                    "content-type": `multipart/form-data`,
+                },
+            },
+        })
+        return ProfileApiData.Edit.toResDto(data)
+    }
+
+    async getPanInfo(userSeq: number) {
+        const { data } = await this.get<ProfileApiData.Info.ResDao>({
+            url: `/api/v1/profile/user/detail?USER_SEQ=${userSeq}`,
+            options: await this.genAuthConfig(),
+        })
+
+        return ProfileApiData.Info.toResDto(data)
+    }
+
+    async getProInfo(playerCode: number) {
+        const { data } = await this.get<ProfileApiData.Info.ResDao>({
+            url: `/api/v1/profile/pro/detail?PLAYER_CODE=${playerCode}`,
+            options: await this.genAuthConfig(),
+        })
+
+        return ProfileApiData.Info.toResDto(data)
+    }
+
+    async panUp(dto: ProfileApiData.SeasonUp.ReqDto) {
+        const { data } = await this.post<ProfileApiData.SeasonUp.ResDao>(
+            {
+                url: "/api/v1/profile/user/season-up",
+                options: await this.genAuthConfig(),
+                body: ProfileApiData.SeasonUp.toReqDao(dto),
+            },
+            error => ErrorUtil.panUp(error)
+        )
+
+        return ProfileApiData.SeasonUp.toResDto(data)
+    }
+
+    async proUp(dto: ProfileApiData.SeasonUp.ReqDto) {
+        const { data } = await this.post<ProfileApiData.SeasonUp.ResDao>({
+            url: "/api/v1/profile/pro/season-up",
+            options: await this.genAuthConfig(),
+            body: ProfileApiData.SeasonUp.toReqDao(dto),
+        })
+
+        return ProfileApiData.SeasonUp.toResDto(data)
+    }
+
+    // async declare() {
+    //     const { data } = await this.post({
+    //         url: "/api/v1/profile/do-report",
+    //         options: await this.genAuthConfig(),
+    //     })
+    //     return data
+    // }
+
+    async checkNick(nickName: string) {
+        const { data } = await this.get<ProfileApiData.Edit.CheckNick.ResDao>({
+            url: `/api/v1/profile/check-nick?NICK=${nickName}`,
+            options: await this.genAuthConfig(),
+        })
+
+        return ProfileApiData.Edit.CheckNick.toResDto(data)
+    }
+
+    async blame(dto: ProfileApiData.Blame.ReqDto) {
+        const { data } = await this.post<ProfileApiData.Blame.ResDao>({
+            url: "/api/v1/profile/blame",
+            options: await this.genAuthConfig(),
+            body: ProfileApiData.Blame.toReqDao(dto),
+        })
+        return ProfileApiData.Blame.toResDto(data)
+    }
+
+    async BlameCheck(blameuser: number) {
+        const { data } = await this.get<ProfileApiData.BlameCheck.ResDao>({
+            url: `/api/v1/profile/blame-history?BLAMED_USER_SEQ=${blameuser}`,
+            options: await this.genAuthConfig(),
+        })
+
+        return data
+    }
+}

@@ -1,0 +1,146 @@
+import { Colors } from "const"
+import { ScaledSize, StyleSheet } from "react-native"
+import { RatioUtil } from "utils"
+
+export const walletTransStlye = {
+    loading: StyleSheet.create({
+        con: {
+            flex: 1,
+            alignItems: "center",
+            justifyContent: "center",
+        },
+        loadingBox: {
+            width: RatioUtil.width(144),
+            height: RatioUtil.height(170),
+            borderRadius: RatioUtil.width(8),
+            backgroundColor: "rgba(0, 0, 0, 0.5)",
+            alignItems: "center",
+            justifyContent: "center",
+        },
+        loadingTextBox: {
+            width: RatioUtil.width(60),
+            height: RatioUtil.height(20),
+            alignItems: "center",
+            justifyContent: "center",
+            marginTop: RatioUtil.height(30),
+        },
+        loadingTextBox2: {
+            width: RatioUtil.width(105),
+            height: RatioUtil.height(40),
+            alignItems: "center",
+            justifyContent: "center",
+            marginTop: RatioUtil.height(21),
+        },
+        loadingTextBox3: {
+            width: RatioUtil.width(77),
+            height: RatioUtil.height(40),
+            alignItems: "center",
+            justifyContent: "center",
+            marginTop: RatioUtil.height(21),
+        },
+        loadingText: {
+            fontSize: RatioUtil.font(14),
+            fontWeight: "500",
+            lineHeight: RatioUtil.height(19.6),
+            color: Colors.WHITE,
+        },
+        imageBox: { width: RatioUtil.width(50), height: RatioUtil.height(50) },
+    }),
+    transPage: StyleSheet.create({
+        nftcon: {
+            height: RatioUtil.height(315),
+            width: RatioUtil.width(360),
+            justifyContent: "center",
+            alignItems: "center",
+        },
+        nftBox: {
+            width: RatioUtil.width(186),
+            height: RatioUtil.height(264),
+            backgroundColor: "gray",
+            borderRadius: RatioUtil.width(8),
+        },
+        nftInfocon: {
+            height: RatioUtil.height(276),
+            width: RatioUtil.width(360),
+        },
+        nftNameBox: {
+            height: RatioUtil.height(45),
+            width: RatioUtil.width(119),
+            justifyContent: "center",
+            alignItems: "center",
+            marginTop: RatioUtil.height(17),
+        },
+        nftName: {
+            fontSize: RatioUtil.font(18),
+            fontWeight: "600",
+            color: Colors.BLACK,
+        },
+        nftTokenBox: {
+            width: RatioUtil.width(320),
+            height: RatioUtil.height(38),
+            flexDirection: "row",
+            marginLeft: RatioUtil.width(20),
+            justifyContent: "center",
+        },
+        nftNumber: {
+            ...RatioUtil.size(155, 38),
+            borderRadius: 10,
+            overflow: "hidden",
+            alignItems: "center",
+            justifyContent: "center",
+            backgroundColor: Colors.GRAY7,
+        },
+        nftTitleText: {
+            fontSize: RatioUtil.font(14),
+            fontWeight: "700",
+            color: Colors.BLACK,
+            textAlign: "center",
+            width: RatioUtil.width(155),
+            textAlignVertical: "center",
+        },
+        nftWarnigText: {
+            color: Colors.RED,
+            fontSize: RatioUtil.font(13),
+            fontWeight: "400",
+            position: "absolute",
+            marginLeft: RatioUtil.width(227),
+            marginTop: RatioUtil.height(129),
+        },
+        nftChargeBox: {
+            width: RatioUtil.width(320),
+            height: RatioUtil.height(21),
+            flexDirection: "row",
+            marginLeft: RatioUtil.width(20),
+            marginTop: RatioUtil.height(16),
+            justifyContent: "space-between",
+        },
+        nftPageTitleBox: {
+            ...RatioUtil.size(320, 62),
+            marginTop: RatioUtil.height(20),
+            marginLeft: RatioUtil.width(20),
+        },
+        nftPageTitle: { fontSize: RatioUtil.font(24), fontWeight: "700", color: Colors.BLACK },
+        nftNotiText: {
+            fontSize: RatioUtil.font(14),
+            marginLeft: RatioUtil.width(20),
+            color: "#9B9BA3",
+            fontWeight: "400",
+            // marginTop: RatioUtil.height(3),
+        },
+        transbtn: {
+            marginTop: RatioUtil.height(50),
+            backgroundColor: Colors.BLACK,
+            width: RatioUtil.width(318),
+            height: RatioUtil.height(60),
+            borderRadius: RatioUtil.width(100),
+            justifyContent: "center",
+        },
+        transbtnText: {
+            color: Colors.WHITE,
+            textAlign: "center",
+            fontSize: RatioUtil.font(16),
+            fontWeight: "600",
+            lineHeight: RatioUtil.height(19.2),
+        },
+    }),
+}

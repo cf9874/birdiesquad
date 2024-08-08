@@ -1,0 +1,182 @@
+[
+  {
+    "nID": 100,
+    "nType": 1,
+    "nName": 10000,
+    "nSeasonKey": -1,
+    "listNFTGrade": [],
+    "listNFTGradeProb": [],
+    "nDesc": 180000,
+    "sIcon": "/system/item/img/level_point_01.png"
+  },
+  {
+    "nID": 101,
+    "nType": 2,
+    "nName": 10001,
+    "nSeasonKey": -1,
+    "listNFTGrade": [],
+    "listNFTGradeProb": [],
+    "nDesc": 180001,
+    "sIcon": "/system/item/img/bdst_01.png"
+  },
+  {
+    "nID": 102,
+    "nType": 3,
+    "nName": 10002,
+    "nSeasonKey": -1,
+    "listNFTGrade": [],
+    "listNFTGradeProb": [],
+    "nDesc": 180007,
+    "sIcon": "/system/item/img/tBORA_01.png"
+  },
+  {
+    "nID": 1000,
+    "nType": 10,
+    "nName": -1,
+    "nSeasonKey": -1,
+    "listNFTGrade": [],
+    "listNFTGradeProb": [],
+    "nDesc": -1,
+    "sIcon": ""
+  },
+  {
+    "nID": 1001,
+    "nType": 10,
+    "nName": -1,
+    "nSeasonKey": -1,
+    "listNFTGrade": [],
+    "listNFTGradeProb": [],
+    "nDesc": -1,
+    "sIcon": ""
+  },
+  {
+    "nID": 1002,
+    "nType": 10,
+    "nName": -1,
+    "nSeasonKey": -1,
+    "listNFTGrade": [],
+    "listNFTGradeProb": [],
+    "nDesc": -1,
+    "sIcon": ""
+  },
+  {
+    "nID": 1003,
+    "nType": 10,
+    "nName": -1,
+    "nSeasonKey": -1,
+    "listNFTGrade": [],
+    "listNFTGradeProb": [],
+    "nDesc": -1,
+    "sIcon": ""
+  },
+  {
+    "nID": 1004,
+    "nType": 10,
+    "nName": -1,
+    "nSeasonKey": -1,
+    "listNFTGrade": [],
+    "listNFTGradeProb": [],
+    "nDesc": -1,
+    "sIcon": ""
+  },
+  {
+    "nID": 1005,
+    "nType": 10,
+    "nName": -1,
+    "nSeasonKey": -1,
+    "listNFTGrade": [],
+    "listNFTGradeProb": [],
+    "nDesc": -1,
+    "sIcon": ""
+  },
+  {
+    "nID": 202301,
+    "nType": 5,
+    "nName": 11000,
+    "nSeasonKey": 2023,
+    "listNFTGrade": [
+      1
+    ],
+    "listNFTGradeProb": [
+      1000
+    ],
+    "nDesc": 180002,
+    "sIcon": "/system/item/img/normal_luckdraw_2023.png"
+  },
+  {
+    "nID": 202302,
+    "nType": 6,
+    "nName": 11001,
+    "nSeasonKey": 2023,
+    "listNFTGrade": [
+      1,
+      2
+    ],
+    "listNFTGradeProb": [
+      970,
+      30
+    ],
+    "nDesc": 180003,
+    "sIcon": "/system/item/img/normal_luckdraw_2023.png"
+  },
+  {
+    "nID": 202303,
+    "nType": 7,
+    "nName": 11002,
+    "nSeasonKey": 2023,
+    "listNFTGrade": [
+      2,
+      3
+    ],
+    "listNFTGradeProb": [
+      850,
+      150
+    ],
+    "nDesc": 180004,
+    "sIcon": "/system/item/img/luxury_luckdraw_2023.png"
+  },
+  {
+    "nID": 202304,
+    "nType": 4,
+    "nName": 11004,
+    "nSeasonKey": 2023,
+    "listNFTGrade": [
+      2
+    ],
+    "listNFTGradeProb": [
+      1000
+    ],
+    "nDesc": 180006,
+    "sIcon": "/system/item/img/choice_card_2023.png"
+  },
+  {
+    "nID": 202305,
+    "nType": 8,
+    "nName": 11002,
+    "nSeasonKey": 2023,
+    "listNFTGrade": [
+      2,
+      3
+    ],
+    "listNFTGradeProb": [
+      850,
+      150
+    ],
+    "nDesc": 180004,
+    "sIcon": "/system/item/img/luxury_luckdraw_2023.png"
+  },
+  {
+    "nID": 202306,
+    "nType": 9,
+    "nName": 11004,
+    "nSeasonKey": 2023,
+    "listNFTGrade": [
+      2
+    ],
+    "listNFTGradeProb": [
+      1000
+    ],
+    "nDesc": 180006,
+    "sIcon": "/system/item/img/choice_card_2023.png"
+  }
+]

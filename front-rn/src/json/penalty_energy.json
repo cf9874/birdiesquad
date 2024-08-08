@@ -1,0 +1,32 @@
+[
+  {
+    "nID": 10000,
+    "nEnergyMin": 81,
+    "nEnergyMax": 100,
+    "nEnergyPenalty": 0
+  },
+  {
+    "nID": 10001,
+    "nEnergyMin": 61,
+    "nEnergyMax": 80,
+    "nEnergyPenalty": -0.3
+  },
+  {
+    "nID": 10002,
+    "nEnergyMin": 31,
+    "nEnergyMax": 60,
+    "nEnergyPenalty": -0.5
+  },
+  {
+    "nID": 10004,
+    "nEnergyMin": 1,
+    "nEnergyMax": 30,
+    "nEnergyPenalty": -0.7
+  },
+  {
+    "nID": 10005,
+    "nEnergyMin": 0,
+    "nEnergyMax": 0,
+    "nEnergyPenalty": -1
+  }
+]

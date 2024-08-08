@@ -1,0 +1,80 @@
+[
+  {
+    "nID": 10001,
+    "nNftCountMin": 1,
+    "nNftCountMax": 2,
+    "nRewardNftCount": 1
+  },
+  {
+    "nID": 10002,
+    "nNftCountMin": 3,
+    "nNftCountMax": 5,
+    "nRewardNftCount": 2
+  },
+  {
+    "nID": 10003,
+    "nNftCountMin": 6,
+    "nNftCountMax": 9,
+    "nRewardNftCount": 3
+  },
+  {
+    "nID": 10004,
+    "nNftCountMin": 10,
+    "nNftCountMax": 14,
+    "nRewardNftCount": 4
+  },
+  {
+    "nID": 10005,
+    "nNftCountMin": 15,
+    "nNftCountMax": 20,
+    "nRewardNftCount": 5
+  },
+  {
+    "nID": 10006,
+    "nNftCountMin": 21,
+    "nNftCountMax": 25,
+    "nRewardNftCount": 7
+  },
+  {
+    "nID": 10007,
+    "nNftCountMin": 26,
+    "nNftCountMax": 30,
+    "nRewardNftCount": 9
+  },
+  {
+    "nID": 10008,
+    "nNftCountMin": 31,
+    "nNftCountMax": 38,
+    "nRewardNftCount": 12
+  },
+  {
+    "nID": 10009,
+    "nNftCountMin": 39,
+    "nNftCountMax": 46,
+    "nRewardNftCount": 15
+  },
+  {
+    "nID": 10010,
+    "nNftCountMin": 47,
+    "nNftCountMax": 55,
+    "nRewardNftCount": 18
+  },
+  {
+    "nID": 10011,
+    "nNftCountMin": 56,
+    "nNftCountMax": 66,
+    "nRewardNftCount": 22
+  },
+  {
+    "nID": 10012,
+    "nNftCountMin": 67,
+    "nNftCountMax": 79,
+    "nRewardNftCount": 26
+  },
+  {
+    "nID": 10013,
+    "nNftCountMin": 70,
+    "nNftCountMax": 99999,
+    "nRewardNftCount": 30
+  }
+]

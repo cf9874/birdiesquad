@@ -1,0 +1,34 @@
+[
+  {
+    "nID": 1,
+    "nElevateCost": 150,
+    "nAllSuccessRate": 800,
+    "nSuccessRate": 350,
+    "ElevateBackgroundPath": "/system/elevate/bg/common.png",
+    "ElevateButtonPath": "/system/elevate/button/common.json"
+  },
+  {
+    "nID": 2,
+    "nElevateCost": 500,
+    "nAllSuccessRate": 600,
+    "nSuccessRate": 250,
+    "ElevateBackgroundPath": "/system/elevate/bg/uncommon.png",
+    "ElevateButtonPath": "/system/elevate/button/uncommon.json"
+  },
+  {
+    "nID": 3,
+    "nElevateCost": 2500,
+    "nAllSuccessRate": 400,
+    "nSuccessRate": 150,
+    "ElevateBackgroundPath": "/system/elevate/bg/rare.png",
+    "ElevateButtonPath": "/system/elevate/button/rare.json"
+  },
+  {
+    "nID": 4,
+    "nElevateCost": -1,
+    "nAllSuccessRate": -1,
+    "nSuccessRate": -1,
+    "ElevateBackgroundPath": "\"\"",
+    "ElevateButtonPath": "/system/elevate/button/superrare.json"
+  }
+]

@@ -1,0 +1,10 @@
+declare module "*.jpg"
+declare module "*.png"
+declare module "*.jpeg"
+declare module "*.gif"
+
+declare module "react-native-circular-slider"
+declare module "@jsdev63/advanced_react-circular-slider"
+declare module "react-native-video"
+declare module "react-native-shadow"
+declare module "react-native-push-notification"

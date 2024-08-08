@@ -1,0 +1,10 @@
+//
+//  Config.xcconfig
+//  front
+//
+//  Created by 스마트헬스플랫폼개발팀-손병윤 on 2023/06/22.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+#include? "tmp.xcconfig"

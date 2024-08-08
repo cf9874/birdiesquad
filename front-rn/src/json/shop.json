@@ -1,0 +1,280 @@
+[
+  {
+    "nID": 101,
+    "nCategory": 100,
+    "nRequestType": -1,
+    "listItemID": [
+      202304
+    ],
+    "listItemCount": [
+      1
+    ],
+    "nCostType": 2,
+    "nSale": 30,
+    "dSaleCostValue": 69000,
+    "dCostValue": 99000,
+    "sStartTime": "20230614",
+    "sEndTime": "20230822",
+    "nBuyType": 2,
+    "nBuyLimit": -1,
+    "nSaleEnd": -1,
+    "nProductName": 11004,
+    "nProductDesc": 12000,
+    "sProductIcon": "",
+    "sSkus": "choice_card_2023_sale30",
+    "sProductCodeIos": "choice_card_i_2023_2",
+    "nSlot": 1
+  },
+  {
+    "nID": 201,
+    "nCategory": 200,
+    "nRequestType": -1,
+    "listItemID": [
+      202302
+    ],
+    "listItemCount": [
+      1
+    ],
+    "nCostType": 2,
+    "nSale": 30,
+    "dSaleCostValue": 3800,
+    "dCostValue": 5500,
+    "sStartTime": "20230614",
+    "sEndTime": "20230822",
+    "nBuyType": -1,
+    "nBuyLimit": -1,
+    "nSaleEnd": -1,
+    "nProductName": 11001,
+    "nProductDesc": -1,
+    "sProductIcon": "",
+    "sSkus": "normal_luckydraw_2023_sale30",
+    "sProductCodeIos": "normal_luckydraw_i_2023_2",
+    "nSlot": 3
+  },
+  {
+    "nID": 202,
+    "nCategory": 200,
+    "nRequestType": -1,
+    "listItemID": [
+      202303
+    ],
+    "listItemCount": [
+      1
+    ],
+    "nCostType": 2,
+    "nSale": 30,
+    "dSaleCostValue": 69000,
+    "dCostValue": 99000,
+    "sStartTime": "20230614",
+    "sEndTime": "20230822",
+    "nBuyType": 2,
+    "nBuyLimit": -1,
+    "nSaleEnd": -1,
+    "nProductName": 11002,
+    "nProductDesc": -1,
+    "sProductIcon": "",
+    "sSkus": "luxury_luckydraw_2023_sale30",
+    "sProductCodeIos": "luxury_luckydraw_i_2023_2",
+    "nSlot": 2
+  },
+  {
+    "nID": 301,
+    "nCategory": 300,
+    "nRequestType": 3,
+    "listItemID": [
+      1000
+    ],
+    "listItemCount": [
+      2200
+    ],
+    "nCostType": 2,
+    "nSale": -1,
+    "dSaleCostValue": 2200,
+    "dCostValue": 2200,
+    "sStartTime": "",
+    "sEndTime": "",
+    "nBuyType": -1,
+    "nBuyLimit": -1,
+    "nSaleEnd": -1,
+    "nProductName": -1,
+    "nProductDesc": -1,
+    "sProductIcon": "",
+    "sSkus": "support_chat_2200",
+    "sProductCodeIos": "support_chat_i_2200_2",
+    "nSlot": -1
+  },
+  {
+    "nID": 302,
+    "nCategory": 300,
+    "nRequestType": 3,
+    "listItemID": [
+      1001
+    ],
+    "listItemCount": [
+      5500
+    ],
+    "nCostType": 2,
+    "nSale": -1,
+    "dSaleCostValue": 5500,
+    "dCostValue": 5500,
+    "sStartTime": "",
+    "sEndTime": "",
+    "nBuyType": -1,
+    "nBuyLimit": -1,
+    "nSaleEnd": -1,
+    "nProductName": -1,
+    "nProductDesc": -1,
+    "sProductIcon": "",
+    "sSkus": "support_chat_5500",
+    "sProductCodeIos": "support_chat_i_5500_2",
+    "nSlot": -1
+  },
+  {
+    "nID": 303,
+    "nCategory": 300,
+    "nRequestType": 3,
+    "listItemID": [
+      1002
+    ],
+    "listItemCount": [
+      11000
+    ],
+    "nCostType": 2,
+    "nSale": -1,
+    "dSaleCostValue": 11000,
+    "dCostValue": 11000,
+    "sStartTime": "",
+    "sEndTime": "",
+    "nBuyType": -1,
+    "nBuyLimit": -1,
+    "nSaleEnd": -1,
+    "nProductName": -1,
+    "nProductDesc": -1,
+    "sProductIcon": "",
+    "sSkus": "support_chat_11000",
+    "sProductCodeIos": "support_chat_i_11000_2",
+    "nSlot": -1
+  },
+  {
+    "nID": 304,
+    "nCategory": 300,
+    "nRequestType": 3,
+    "listItemID": [
+      1003
+    ],
+    "listItemCount": [
+      33000
+    ],
+    "nCostType": 2,
+    "nSale": -1,
+    "dSaleCostValue": 33000,
+    "dCostValue": 33000,
+    "sStartTime": "",
+    "sEndTime": "",
+    "nBuyType": -1,
+    "nBuyLimit": -1,
+    "nSaleEnd": -1,
+    "nProductName": -1,
+    "nProductDesc": -1,
+    "sProductIcon": "",
+    "sSkus": "support_chat_33000",
+    "sProductCodeIos": "support_chat_i_33000_2",
+    "nSlot": -1
+  },
+  {
+    "nID": 305,
+    "nCategory": 300,
+    "nRequestType": 3,
+    "listItemID": [
+      1004
+    ],
+    "listItemCount": [
+      55000
+    ],
+    "nCostType": 2,
+    "nSale": -1,
+    "dSaleCostValue": 55000,
+    "dCostValue": 55000,
+    "sStartTime": "",
+    "sEndTime": "",
+    "nBuyType": -1,
+    "nBuyLimit": -1,
+    "nSaleEnd": -1,
+    "nProductName": -1,
+    "nProductDesc": -1,
+    "sProductIcon": "",
+    "sSkus": "support_chat_55000",
+    "sProductCodeIos": "support_chat_i_55000_2",
+    "nSlot": -1
+  },
+  {
+    "nID": 306,
+    "nCategory": 300,
+    "nRequestType": 3,
+    "listItemID": [
+      1005
+    ],
+    "listItemCount": [
+      110000
+    ],
+    "nCostType": 2,
+    "nSale": -1,
+    "dSaleCostValue": 110000,
+    "dCostValue": 110000,
+    "sStartTime": "",
+    "sEndTime": "",
+    "nBuyType": -1,
+    "nBuyLimit": -1,
+    "nSaleEnd": -1,
+    "nProductName": -1,
+    "nProductDesc": -1,
+    "sProductIcon": "",
+    "sSkus": "support_chat_110000",
+    "sProductCodeIos": "support_chat_i_110000_2",
+    "nSlot": -1
+  },
+  {
+    "nID": 401,
+    "nCategory": 200,
+    "nRequestType": -1,
+    "listItemID": [
+      202302,
+      202302,
+      202302,
+      202302,
+      202302,
+      202302,
+      202302,
+      202302,
+      202302,
+      202302
+    ],
+    "listItemCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "nCostType": 2,
+    "nSale": 30,
+    "dSaleCostValue": 38000,
+    "dCostValue": 55000,
+    "sStartTime": "20230614",
+    "sEndTime": "20230822",
+    "nBuyType": -1,
+    "nBuyLimit": -1,
+    "nSaleEnd": -1,
+    "nProductName": 11005,
+    "nProductDesc": -1,
+    "sProductIcon": "",
+    "sSkus": "normal_luckydraw_10ea_2023_sale30",
+    "sProductCodeIos": "normal_luckydraw_10ea_i_2023_sale30",
+    "nSlot": 4
+  }
+]

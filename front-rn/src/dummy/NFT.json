@@ -1,0 +1,26 @@
+{
+    "code": "SUCCESS",
+    "data": {
+        "NAME": "한진선",
+        "SEQ_NO": 12345,
+        "REG_AT": 1662727363,
+        "GRADE": "Common",
+        "LEVEL": 5,
+        "ENERGY": 10,
+        "TRAINING": 2000,
+        "EAGLE": 350,
+        "BIRDIE": 70,
+        "PAR": 11,
+        "BOGEY": -29,
+        "DOUBLE_BOGEY": -57,
+        "EARN_AMOUNT": 420,
+        "WALLET_LEVEL": 0,
+        "WALLET_GRADE": 0,
+        "PLAYER_CODE": 0,
+        "SEASON_CODE": 2023,
+        "NEW": 0,
+        "NFT_SERIAL": "#205812032",
+        "USER_SEQ": 0,
+        "LEVEL_MAX_POINT": 10000
+    }
+}

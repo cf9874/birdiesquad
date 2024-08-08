@@ -1,0 +1,52 @@
+[
+  {
+    "nID": 1,
+    "nRank": 1,
+    "dRewardTokenRatePermil": 350
+  },
+  {
+    "nID": 2,
+    "nRank": 2,
+    "dRewardTokenRatePermil": 150
+  },
+  {
+    "nID": 3,
+    "nRank": 3,
+    "dRewardTokenRatePermil": 120
+  },
+  {
+    "nID": 4,
+    "nRank": 4,
+    "dRewardTokenRatePermil": 100
+  },
+  {
+    "nID": 5,
+    "nRank": 5,
+    "dRewardTokenRatePermil": 80
+  },
+  {
+    "nID": 6,
+    "nRank": 6,
+    "dRewardTokenRatePermil": 60
+  },
+  {
+    "nID": 7,
+    "nRank": 7,
+    "dRewardTokenRatePermil": 50
+  },
+  {
+    "nID": 8,
+    "nRank": 8,
+    "dRewardTokenRatePermil": 40
+  },
+  {
+    "nID": 9,
+    "nRank": 9,
+    "dRewardTokenRatePermil": 30
+  },
+  {
+    "nID": 10,
+    "nRank": 10,
+    "dRewardTokenRatePermil": 20
+  }
+]

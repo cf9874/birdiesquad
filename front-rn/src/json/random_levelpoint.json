@@ -1,0 +1,82 @@
+[
+  {
+    "nID": 100,
+    "nNftCount": 1,
+    "dRandomLp_daily_maxCount": 10,
+    "dMakeOnceCount": 1,
+    "nMakePeriod_min": 30,
+    "nMakePeriod_max": 150
+  },
+  {
+    "nID": 110,
+    "nNftCount": 3,
+    "dRandomLp_daily_maxCount": 12,
+    "dMakeOnceCount": 1,
+    "nMakePeriod_min": 30,
+    "nMakePeriod_max": 150
+  },
+  {
+    "nID": 120,
+    "nNftCount": 6,
+    "dRandomLp_daily_maxCount": 14,
+    "dMakeOnceCount": 1,
+    "nMakePeriod_min": 30,
+    "nMakePeriod_max": 150
+  },
+  {
+    "nID": 130,
+    "nNftCount": 10,
+    "dRandomLp_daily_maxCount": 16,
+    "dMakeOnceCount": 1,
+    "nMakePeriod_min": 30,
+    "nMakePeriod_max": 150
+  },
+  {
+    "nID": 140,
+    "nNftCount": 15,
+    "dRandomLp_daily_maxCount": 18,
+    "dMakeOnceCount": 1,
+    "nMakePeriod_min": 30,
+    "nMakePeriod_max": 150
+  },
+  {
+    "nID": 150,
+    "nNftCount": 21,
+    "dRandomLp_daily_maxCount": 20,
+    "dMakeOnceCount": 1,
+    "nMakePeriod_min": 30,
+    "nMakePeriod_max": 150
+  },
+  {
+    "nID": 160,
+    "nNftCount": 31,
+    "dRandomLp_daily_maxCount": 25,
+    "dMakeOnceCount": 1,
+    "nMakePeriod_min": 30,
+    "nMakePeriod_max": 150
+  },
+  {
+    "nID": 170,
+    "nNftCount": 51,
+    "dRandomLp_daily_maxCount": 30,
+    "dMakeOnceCount": 1,
+    "nMakePeriod_min": 30,
+    "nMakePeriod_max": 150
+  },
+  {
+    "nID": 180,
+    "nNftCount": 71,
+    "dRandomLp_daily_maxCount": 40,
+    "dMakeOnceCount": 1,
+    "nMakePeriod_min": 30,
+    "nMakePeriod_max": 150
+  },
+  {
+    "nID": 190,
+    "nNftCount": 91,
+    "dRandomLp_daily_maxCount": 50,
+    "dMakeOnceCount": 1,
+    "nMakePeriod_min": 30,
+    "nMakePeriod_max": 150
+  }
+]

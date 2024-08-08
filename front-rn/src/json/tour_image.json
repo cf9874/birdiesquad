@@ -1,0 +1,102 @@
+[
+  {
+    "nID": 1,
+    "sTourImagePath": "/system/tour/img/tour_01.png",
+    "nGameCode": 80069419
+  },
+  {
+    "nID": 2,
+    "sTourImagePath": "/system/tour/img/tour_02.png",
+    "nGameCode": 80069420
+  },
+  {
+    "nID": 3,
+    "sTourImagePath": "/system/tour/img/tour_03.png",
+    "nGameCode": 80069421
+  },
+  {
+    "nID": 4,
+    "sTourImagePath": "/system/tour/img/tour_04.png",
+    "nGameCode": 80069422
+  },
+  {
+    "nID": 5,
+    "sTourImagePath": "/system/tour/img/tour_05.png",
+    "nGameCode": 80069423
+  },
+  {
+    "nID": 6,
+    "sTourImagePath": "/system/tour/img/tour_06.png",
+    "nGameCode": 80069425
+  },
+  {
+    "nID": 7,
+    "sTourImagePath": "/system/tour/img/tour_07.png",
+    "nGameCode": 80069424
+  },
+  {
+    "nID": 8,
+    "sTourImagePath": "/system/tour/img/tour_08.png",
+    "nGameCode": 80069426
+  },
+  {
+    "nID": 9,
+    "sTourImagePath": "/system/tour/img/tour_09.png",
+    "nGameCode": 80069427
+  },
+  {
+    "nID": 10,
+    "sTourImagePath": "/system/tour/img/tour_11.png",
+    "nGameCode": 80069428
+  },
+  {
+    "nID": 11,
+    "sTourImagePath": "/system/tour/img/tour_12.png",
+    "nGameCode": 80069429
+  },
+  {
+    "nID": 12,
+    "sTourImagePath": "/system/tour/img/tour_13.png",
+    "nGameCode": 80069430
+  },
+  {
+    "nID": 13,
+    "sTourImagePath": "/system/tour/img/tour_14.png",
+    "nGameCode": 80069431
+  },
+  {
+    "nID": 14,
+    "sTourImagePath": "/system/tour/img/tour_15.png",
+    "nGameCode": 80069432
+  },
+  {
+    "nID": 15,
+    "sTourImagePath": "/system/tour/img/tour_16.png",
+    "nGameCode": 80069433
+  },
+  {
+    "nID": 16,
+    "sTourImagePath": "/system/tour/img/tour_17.png",
+    "nGameCode": 80069434
+  },
+  {
+    "nID": 17,
+    "sTourImagePath": "/system/tour/img/tour_18.png",
+    "nGameCode": 80069435
+  },
+  {
+    "nID": 18,
+    "sTourImagePath": "/system/tour/img/tour_19.png",
+    "nGameCode": 80069436
+  },
+  {
+    "nID": 19,
+    "sTourImagePath": "/system/tour/img/tour_01.png",
+    "nGameCode": 80069437
+  },
+  {
+    "nID": 20,
+    "sTourImagePath": "/system/tour/img/tour_02.png",
+    "nGameCode": 80069438
+  }
+]

@@ -1,0 +1,16 @@
+import Config from "react-native-config";
+    
+export const TOKEN_ID:string  = Config.TOKEN_ID??''
+export const REFRESH_TOKEN_ID:string   = Config.REFRESH_TOKEN_ID??''
+export const API_URL:string  = Config.API_URL??''
+export const API_WALLET_URL:string  = Config.API_WALLET_URL??''
+export const NODE_ENV:string  = Config.NODE_ENV??''
+export const S3:string  = Config.S3??''
+export const NFT_S3:string  = Config.NFT_S3??''
+export const SETTING_ID:string = Config.SETTING_ID??''
+export const CHAT_API_URL:string  = Config.CHAT_API_URL??''
+export const APP_USER_ID:string  = Config.APP_USER_ID??''
+export const DEVICE_KEY:string  = Config.DEVICE_KEY??''
+export const DAPP_API_KEYS:string  = Config.DAPP_API_KEYS??''
+export const LINK_BUY_PLAYER_ENV:string  = Config.LINK_BUY_PLAYER_ENV??''
+export const LINK_SALE_PLAYER_ENV:string  = Config.LINK_SALE_PLAYER_ENV??''

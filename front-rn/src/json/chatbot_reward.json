@@ -1,0 +1,26 @@
+[
+  {
+    "nID": 1,
+    "nScoreType": 1,
+    "nLevelpointRewardAmount": 50,
+    "nBdstRewardAmount": 20
+  },
+  {
+    "nID": 2,
+    "nScoreType": 2,
+    "nLevelpointRewardAmount": 3000,
+    "nBdstRewardAmount": 300
+  },
+  {
+    "nID": 3,
+    "nScoreType": 3,
+    "nLevelpointRewardAmount": 10000,
+    "nBdstRewardAmount": 1000
+  },
+  {
+    "nID": 4,
+    "nScoreType": 4,
+    "nLevelpointRewardAmount": 10000,
+    "nBdstRewardAmount": 1000
+  }
+]

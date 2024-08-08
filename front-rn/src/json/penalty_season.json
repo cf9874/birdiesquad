@@ -1,0 +1,98 @@
+[
+  {
+    "nID": 100,
+    "nGrade": 1,
+    "nSeasonGap": 0,
+    "nSeasonPenalty": 0
+  },
+  {
+    "nID": 101,
+    "nGrade": 1,
+    "nSeasonGap": 1,
+    "nSeasonPenalty": -0.3
+  },
+  {
+    "nID": 102,
+    "nGrade": 1,
+    "nSeasonGap": 2,
+    "nSeasonPenalty": -0.5
+  },
+  {
+    "nID": 103,
+    "nGrade": 1,
+    "nSeasonGap": 3,
+    "nSeasonPenalty": -0.7
+  },
+  {
+    "nID": 200,
+    "nGrade": 2,
+    "nSeasonGap": 0,
+    "nSeasonPenalty": 0
+  },
+  {
+    "nID": 201,
+    "nGrade": 2,
+    "nSeasonGap": 1,
+    "nSeasonPenalty": -0.2
+  },
+  {
+    "nID": 202,
+    "nGrade": 2,
+    "nSeasonGap": 2,
+    "nSeasonPenalty": -0.3
+  },
+  {
+    "nID": 203,
+    "nGrade": 2,
+    "nSeasonGap": 3,
+    "nSeasonPenalty": -0.4
+  },
+  {
+    "nID": 300,
+    "nGrade": 3,
+    "nSeasonGap": 0,
+    "nSeasonPenalty": 0
+  },
+  {
+    "nID": 301,
+    "nGrade": 3,
+    "nSeasonGap": 1,
+    "nSeasonPenalty": -0.1
+  },
+  {
+    "nID": 302,
+    "nGrade": 3,
+    "nSeasonGap": 2,
+    "nSeasonPenalty": -0.15
+  },
+  {
+    "nID": 303,
+    "nGrade": 3,
+    "nSeasonGap": 3,
+    "nSeasonPenalty": -0.2
+  },
+  {
+    "nID": 400,
+    "nGrade": 4,
+    "nSeasonGap": 0,
+    "nSeasonPenalty": 0
+  },
+  {
+    "nID": 401,
+    "nGrade": 4,
+    "nSeasonGap": 1,
+    "nSeasonPenalty": -0.05
+  },
+  {
+    "nID": 402,
+    "nGrade": 4,
+    "nSeasonGap": 2,
+    "nSeasonPenalty": -0.1
+  },
+  {
+    "nID": 403,
+    "nGrade": 4,
+    "nSeasonGap": 3,
+    "nSeasonPenalty": -0.15
+  }
+]

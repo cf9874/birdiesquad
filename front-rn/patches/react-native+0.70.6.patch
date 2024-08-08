@@ -1,0 +1,20 @@
+diff --git a/node_modules/react-native/Libraries/PermissionsAndroid/PermissionsAndroid.js b/node_modules/react-native/Libraries/PermissionsAndroid/PermissionsAndroid.js
+index 389f7b7..1fa8885 100644
+--- a/node_modules/react-native/Libraries/PermissionsAndroid/PermissionsAndroid.js
++++ b/node_modules/react-native/Libraries/PermissionsAndroid/PermissionsAndroid.js
+@@ -34,6 +34,7 @@ const PERMISSION_REQUEST_RESULT = Object.freeze({
+ });
+ 
+ const PERMISSIONS = Object.freeze({
++  POST_NOTIFICATIONS:'android.permission.POST_NOTIFICATIONS',
+   READ_CALENDAR: 'android.permission.READ_CALENDAR',
+   WRITE_CALENDAR: 'android.permission.WRITE_CALENDAR',
+   CAMERA: 'android.permission.CAMERA',
+@@ -87,6 +88,7 @@ const PERMISSIONS = Object.freeze({
+ class PermissionsAndroid {
+   PERMISSIONS: {|
+     ACCEPT_HANDOVER: string,
++    POST_NOTIFICATIONS:string,
+     ACCESS_BACKGROUND_LOCATION: string,
+     ACCESS_COARSE_LOCATION: string,
+     ACCESS_FINE_LOCATION: string,

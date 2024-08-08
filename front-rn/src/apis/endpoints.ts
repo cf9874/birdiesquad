@@ -1,0 +1,14 @@
+export const seasonKey = "/api/v1/season/season-key";
+export const shopChoiceBilling = "/api/v1/shop/choice/billing/init";
+export const shopLuckyBilling = "/api/v1/shop/lucky/billing/init";
+export const shopVerify = "/api/v1/shop/billing/verify";
+export const shopEnd = "/api/v1/shop/billing/end";
+export const homeFirst = "/api/v1/home/first";
+export const doOpenNft = "/api/v1/nft/do-open-nft";
+export const gameParticipent = "/api/v1/season/game-participant";
+export const pageMyNft = "/api/v1/nft/page-my-nft";
+export const detailsNft = "/api/v1/nft/detail-nft";
+export const pageMyItem = "/api/v1/item/page-my-item";
+export const gameLeaderBoard = "/api/v1/season/game-leaderboard";
+export const gamePersonhole = "/api/v1/season/game-personhole";
+export const gameDetails="/api/v1/season/game-detail";

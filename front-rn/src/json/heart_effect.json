@@ -1,0 +1,27 @@
+[
+  {
+    "nID": 1,
+    "nInputHeartMinAmount": 1,
+    "nEffectGeneratedAmount": 1
+  },
+  {
+    "nID": 2,
+    "nInputHeartMinAmount": 15,
+    "nEffectGeneratedAmount": 1
+  },
+  {
+    "nID": 3,
+    "nInputHeartMinAmount": 40,
+    "nEffectGeneratedAmount": 1
+  },
+  {
+    "nID": 4,
+    "nInputHeartMinAmount": 80,
+    "nEffectGeneratedAmount": 1
+  },
+  {
+    "nID": 5,
+    "nInputHeartMinAmount": 200,
+    "nEffectGeneratedAmount": 1
+  }
+]
